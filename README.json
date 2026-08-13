@@ -1,0 +1,1060 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Appsmith",
+          "description": "（Github）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:29:08Z",
+            "owner": "appsmithorg",
+            "repo": "appsmith",
+            "stars": 40657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ILLA Cloud/艾拉云",
+          "description": "（Github）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-27T02:22:32Z",
+            "owner": "illacloud",
+            "repo": "illa-builder",
+            "stars": 12309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "明道云",
+          "description": "支持公共云和私有部署，私有部署在Github可获得免费社区版下载",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-12-16T05:58:38Z",
+            "owner": "mingdaocom",
+            "repo": "pd",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "双链DaaS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "大型系统构建案例-1.5K Stars",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-10T22:27:07Z",
+                "owner": "teaql",
+                "repo": "teaql-agent-kit",
+                "stars": 2801
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "直接通过Github Actions体验",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-01-12T09:24:54Z",
+                "owner": "doublechaintech",
+                "repo": "daas-with-github-actions",
+                "stars": 20
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-10-23T05:10:25Z",
+            "owner": "doublechaintech",
+            "repo": "daas-start-kit",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "阿里-通用低代码基础设施",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "阿里开源的低代码引擎",
+              "description": "官网",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-03-10T09:37:14Z",
+                "owner": "alibaba",
+                "repo": "lowcode-engine",
+                "stars": 15879
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "闪电数据管理",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "lightning —— 基于Django的无代码Admin及低代码开发框架",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-28T13:01:45Z",
+                "owner": "git-men",
+                "repo": "lightning",
+                "stars": 180
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "crudapi-增删改查接口平台",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "前端（开源）",
+              "description": "：Vue + Quasar实现Web管理UI，可任意修改。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2026-05-21T06:41:11Z",
+                "owner": "crudapi",
+                "repo": "crudapi-admin-web",
+                "stars": 210
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "后端（商业使用永久免费，无任何功能限制）",
+              "description": "：Java + Jdbc实现Service，数据库支持MySQL、PostgreSQL、SQL Server和Oracle，支持二次开发和私有部署。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2025-12-26T11:31:38Z",
+                "owner": "crudapi",
+                "repo": "crudapi-example",
+                "stars": 20
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "OpenTiny TinyEngine低代码引擎",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Github",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Vue",
+                "last_commit": "2026-07-30T08:19:57Z",
+                "owner": "opentiny",
+                "repo": "tiny-engine",
+                "stars": 2785
+              }
+            }
+          ]
+        }
+      ],
+      "title": "全栈平台"
+    },
+    {
+      "description": "仅包含前端部分的 low code 平台",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "阿里-bi designer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T01:39:37Z",
+            "owner": "ascoders",
+            "repo": "weekly",
+            "stars": 31068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[LLMStack] (https://github.com/trypromptly/LLMStack",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-11T19:59:51Z",
+            "owner": "trypromptly",
+            "repo": "LLMStack",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Everright-formEditor",
+          "description": "一个可视化低代码表单编辑器，拥有多个组件、适配跨平台、多语言支持",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-04-22T12:54:43Z",
+            "owner": "Liberty-liu",
+            "repo": "Everright-formEditor",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chameleon Engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:20:07Z",
+            "owner": "hlerenow",
+            "repo": "chameleon",
+            "stars": 228
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "腾讯-tmagic-editor",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "开源的页面可视化搭建编辑器tmagic-editor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T04:03:52Z",
+                "owner": "Tencent",
+                "repo": "tmagic-editor",
+                "stars": 4929
+              }
+            }
+          ]
+        }
+      ],
+      "title": "页面搭建"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "jeecg-boot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T04:02:41Z",
+            "owner": "jeecgboot",
+            "repo": "JeecgBoot",
+            "stars": 47385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "好未来晓黑板go-zero微服务框架",
+          "description": "你不需要懂微服务，懂业务就行",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T16:41:19Z",
+            "owner": "zeromicro",
+            "repo": "go-zero",
+            "stars": 33262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NocoBase",
+          "description": "：极易扩展的无代码开发平台",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:56:58Z",
+            "owner": "nocobase",
+            "repo": "nocobase",
+            "stars": 23634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "百度-amis",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ovine",
+              "description": "：基于 amis 补全了路由、权限相关的组件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-02-03T22:12:58Z",
+                "owner": "ovineio",
+                "repo": "ovine",
+                "stars": 749
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-18T14:07:40Z",
+            "owner": "baidu",
+            "repo": "amis",
+            "stars": 18883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/alibaba/lowcode-engine",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-03-10T09:37:14Z",
+            "owner": "alibaba",
+            "repo": "lowcode-engine",
+            "stars": 15879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "form-generator",
+          "description": "：Element UI表单设计及代码生成器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-04-13T07:58:01Z",
+            "owner": "JakHuang",
+            "repo": "form-generator",
+            "stars": 9321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "form-render",
+          "description": "：通过 JSON Schema 生成标准 Form，基于React",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-26T06:16:52Z",
+            "owner": "alibaba",
+            "repo": "x-render",
+            "stars": 7854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "鲁班 H5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-03T13:43:20Z",
+            "owner": "ly525",
+            "repo": "luban-h5",
+            "stars": 6240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mall-Cook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-05-25T08:08:20Z",
+            "owner": "wangyuan389",
+            "repo": "mall-cook",
+            "stars": 5589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "运满满-码良",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-02-25T02:45:26Z",
+            "owner": "ymm-tech",
+            "repo": "gods-pen",
+            "stars": 4455
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rxeditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-03T22:21:27Z",
+            "owner": "codebdy",
+            "repo": "rxdrag",
+            "stars": 3752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue-Layout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-12T14:21:20Z",
+            "owner": "jaweii",
+            "repo": "Vue-Layout",
+            "stars": 3253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sparrow-js",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-02-01T10:02:34Z",
+            "owner": "sparrow-js",
+            "repo": "sparrow",
+            "stars": 3206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "华炎魔方",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-06T07:46:54Z",
+            "owner": "steedos",
+            "repo": "steedos-platform",
+            "stars": 1574
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "W5 SOAR",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-24T02:31:31Z",
+            "owner": "w5teams",
+            "repo": "w5",
+            "stars": 1546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:35:04Z",
+            "owner": "AnsGoo",
+            "repo": "openDataV",
+            "stars": 1363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "阿里-gaea-editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-05-22T01:50:45Z",
+            "owner": "ascoders",
+            "repo": "gaea-editor",
+            "stars": 1349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pipeline-editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-07T02:20:37Z",
+            "owner": "page-pipepline",
+            "repo": "pipeline-editor",
+            "stars": 1016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h5maker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-02-11T07:42:15Z",
+            "owner": "zhengguorong",
+            "repo": "h5maker",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "h5-factory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-03T17:56:30Z",
+            "owner": "yangyuji",
+            "repo": "h5-factory",
+            "stars": 853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "阿里-sula",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-11T10:43:25Z",
+            "owner": "umijs",
+            "repo": "sula",
+            "stars": 784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Esview",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-19T04:05:07Z",
+            "owner": "furioussoul",
+            "repo": "tailmaster",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "layoutit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2019-06-06T07:07:21Z",
+            "owner": "justjavac",
+            "repo": "layoutit",
+            "stars": 762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StaringOS MtBird",
+          "description": "开源小程序、H5、网站低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-22T10:42:54Z",
+            "owner": "staringos",
+            "repo": "mtbird",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web Designer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-13T10:15:36Z",
+            "owner": "xiaoai7904",
+            "repo": "web_designer",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "视搭-视频可视化搭建",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-11-27T09:04:45Z",
+            "owner": "tnfe",
+            "repo": "shida",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Json Design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-03-03T12:50:22Z",
+            "owner": "fyl080801",
+            "repo": "vjdesign",
+            "stars": 597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "随心秀",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-17T18:51:13Z",
+            "owner": "lzuntalented",
+            "repo": "lz-h5-edit",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X-Page-Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-12-07T23:49:44Z",
+            "owner": "OXOYO",
+            "repo": "X-Page-Editor-Vue",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pl-drag-template",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2023-09-26T12:05:39Z",
+            "owner": "parlay96",
+            "repo": "pl-drag-template",
+            "stars": 416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "唯品会-ams",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-01T16:17:47Z",
+            "owner": "vipshop",
+            "repo": "ams",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tefact",
+          "description": "Tefact 轻量级无代码/低代码，H5、表单编辑器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2023-07-20T00:30:49Z",
+            "owner": "staringos",
+            "repo": "tefact",
+            "stars": 346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ramiko",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-08T00:32:28Z",
+            "owner": "fantasticit",
+            "repo": "ramiko",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gen",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-02-12T09:18:09Z",
+            "owner": "genany",
+            "repo": "gen",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pager",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-02-12T06:10:09Z",
+            "owner": "laispace",
+            "repo": "pager",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-admin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2025-04-16T15:29:55Z",
+            "owner": "jiangshanmeta",
+            "repo": "vue-admin",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "百度外卖-blocks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-02-27T11:22:26Z",
+            "owner": "Eyot424",
+            "repo": "blocks",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quick-boot",
+          "description": "基于 Spring Cloud 2022 、Spring Boot 3、AMIS 和 APIJSON 的低代码系统.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-01-02T15:53:30Z",
+            "owner": "csx-bill",
+            "repo": "quick-boot",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-visual-design",
+          "description": "基于react的h5组件搭建",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-17T19:39:13Z",
+            "owner": "react-visual-design",
+            "repo": "react-visual-design",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cube",
+          "description": "：快速搭建中后台页面",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-10-12T05:41:55Z",
+            "owner": "fantasticit",
+            "repo": "cube",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "activity-YD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2022-07-21T18:46:24Z",
+            "owner": "vk-together",
+            "repo": "activity-YD",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vision",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-29T16:51:58Z",
+            "owner": "tuoxiansp",
+            "repo": "vision",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blockVisualEditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2019-02-15T08:54:18Z",
+            "owner": "sww1230",
+            "repo": "blockVisualEditor",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yh5",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-03-11T02:21:19Z",
+            "owner": "qq15725",
+            "repo": "yh5",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moria - Lowcode development platform",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-03-01T11:21:54Z",
+            "owner": "MudOnTire",
+            "repo": "moria",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "全象低代码平台渲染引擎 Artery Renderer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-27T08:03:59Z",
+            "owner": "quanxiang-cloud",
+            "repo": "one-for-all",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/bojue/Web-Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-08T13:19:42Z",
+            "owner": "bojue",
+            "repo": "Web-Editor",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brick-design",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-02-23T13:54:55Z",
+            "owner": "brick-design",
+            "repo": "react-visual-editor",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "antd-visual-editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-20T16:57:20Z",
+            "owner": "small-tou",
+            "repo": "antd-visual-editor",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "阿里-formilyjs",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/alibaba/designable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-04-07T03:20:40Z",
+                "owner": "alibaba",
+                "repo": "designable",
+                "stars": 3529
+              }
+            }
+          ]
+        }
+      ],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "161.精读《可视化搭建思考 - 富文本搭建》",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-09T01:39:37Z",
+            "owner": "ascoders",
+            "repo": "weekly",
+            "stars": 31068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-01T08:02:24Z",
+            "owner": "xufei",
+            "repo": "blog",
+            "stars": 6631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "低代码与大语言模型的探索实践",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-20T15:22:43Z",
+            "owner": "woai3c",
+            "repo": "Front-end-articles",
+            "stars": 1644
+          }
+        }
+      ],
+      "title": "技术点"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:56.459Z",
+    "original_repository": "taowen/awesome-lowcode",
+    "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
+    "enhanced_repository": "enhansome/enhansome-lowcode",
+    "enhanced_repository_description": null,
+    "title": "Awesome 国内低代码平台 with stars"
+  }
+}
