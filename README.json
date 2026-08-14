@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:29:08Z",
+            "last_commit": "2026-08-14T02:19:29Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40657
+            "stars": 40669
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-27T02:22:32Z",
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12309
+            "stars": 12308
           }
         },
         {
@@ -104,7 +104,7 @@
                 "last_commit": "2025-03-10T09:37:14Z",
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15879
+                "stars": 15878
               }
             }
           ]
@@ -242,7 +242,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:20:07Z",
+            "last_commit": "2026-08-14T02:33:41Z",
             "owner": "hlerenow",
             "repo": "chameleon",
             "stars": 228
@@ -261,7 +261,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T04:03:52Z",
+                "last_commit": "2026-08-13T07:11:37Z",
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
                 "stars": 4929
@@ -286,7 +286,7 @@
             "last_commit": "2026-08-10T04:02:41Z",
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 47385
+            "stars": 47393
           }
         },
         {
@@ -297,10 +297,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T16:41:19Z",
+            "last_commit": "2026-08-13T19:53:23Z",
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33262
+            "stars": 33259
           }
         },
         {
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:56:58Z",
+            "last_commit": "2026-08-14T03:09:26Z",
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23634
+            "stars": 23647
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-03-18T14:07:40Z",
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18883
+            "stars": 18882
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2025-03-10T09:37:14Z",
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15879
+            "stars": 15878
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2023-04-13T07:58:01Z",
             "owner": "JakHuang",
             "repo": "form-generator",
-            "stars": 9321
+            "stars": 9322
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-05-26T06:16:52Z",
             "owner": "alibaba",
             "repo": "x-render",
-            "stars": 7854
+            "stars": 7852
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-01-03T13:43:20Z",
             "owner": "ly525",
             "repo": "luban-h5",
-            "stars": 6240
+            "stars": 6239
           }
         },
         {
@@ -469,7 +469,7 @@
             "last_commit": "2025-02-01T10:02:34Z",
             "owner": "sparrow-js",
             "repo": "sparrow",
-            "stars": 3206
+            "stars": 3205
           }
         },
         {
@@ -553,7 +553,7 @@
             "last_commit": "2026-02-11T07:42:15Z",
             "owner": "zhengguorong",
             "repo": "h5maker",
-            "stars": 910
+            "stars": 908
           }
         },
         {
@@ -567,7 +567,7 @@
             "last_commit": "2023-03-03T17:56:30Z",
             "owner": "yangyuji",
             "repo": "h5-factory",
-            "stars": 853
+            "stars": 852
           }
         },
         {
@@ -637,7 +637,7 @@
             "last_commit": "2023-10-13T10:15:36Z",
             "owner": "xiaoai7904",
             "repo": "web_designer",
-            "stars": 642
+            "stars": 643
           }
         },
         {
@@ -693,7 +693,7 @@
             "last_commit": "2022-12-07T23:49:44Z",
             "owner": "OXOYO",
             "repo": "X-Page-Editor-Vue",
-            "stars": 466
+            "stars": 465
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "last_commit": "2026-07-20T15:22:43Z",
             "owner": "woai3c",
             "repo": "Front-end-articles",
-            "stars": 1644
+            "stars": 1643
           }
         }
       ],
@@ -1050,7 +1050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:15:56.459Z",
+    "last_updated": "2026-08-14T03:11:45.886Z",
     "original_repository": "taowen/awesome-lowcode",
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
     "enhanced_repository": "enhansome/enhansome-lowcode",
