@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T20:39:56Z",
+            "last_commit": "2026-08-18T01:55:49Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40680
+            "stars": 40686
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-05-27T02:22:32Z",
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12309
+            "stars": 12310
           }
         },
         {
@@ -104,7 +104,7 @@
                 "last_commit": "2025-03-10T09:37:14Z",
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15877
+                "stars": 15876
               }
             }
           ]
@@ -203,7 +203,7 @@
             "last_commit": "2024-09-09T01:39:37Z",
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31067
+            "stars": 31070
           }
         },
         {
@@ -261,10 +261,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T07:11:37Z",
+                "last_commit": "2026-08-17T04:00:48Z",
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4930
+                "stars": 4932
               }
             }
           ]
@@ -297,7 +297,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T09:10:35Z",
+            "last_commit": "2026-08-17T19:53:59Z",
             "owner": "zeromicro",
             "repo": "go-zero",
             "stars": 33260
@@ -311,10 +311,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T02:05:15Z",
+            "last_commit": "2026-08-18T00:46:19Z",
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23678
+            "stars": 23684
           }
         },
         {
@@ -343,7 +343,7 @@
             "last_commit": "2026-03-18T14:07:40Z",
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18882
+            "stars": 18883
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2025-03-10T09:37:14Z",
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15877
+            "stars": 15876
           }
         },
         {
@@ -385,7 +385,7 @@
             "last_commit": "2026-05-26T06:16:52Z",
             "owner": "alibaba",
             "repo": "x-render",
-            "stars": 7852
+            "stars": 7851
           }
         },
         {
@@ -399,7 +399,7 @@
             "last_commit": "2026-01-03T13:43:20Z",
             "owner": "ly525",
             "repo": "luban-h5",
-            "stars": 6239
+            "stars": 6240
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2019-11-12T14:21:20Z",
             "owner": "jaweii",
             "repo": "Vue-Layout",
-            "stars": 3253
+            "stars": 3254
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-06T07:46:54Z",
             "owner": "steedos",
             "repo": "steedos-platform",
-            "stars": 1573
+            "stars": 1572
           }
         },
         {
@@ -511,7 +511,7 @@
             "last_commit": "2026-08-15T13:15:28Z",
             "owner": "AnsGoo",
             "repo": "openDataV",
-            "stars": 1363
+            "stars": 1362
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2024-09-09T01:39:37Z",
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31067
+            "stars": 31070
           }
         },
         {
@@ -1050,7 +1050,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:08:30.183Z",
+    "last_updated": "2026-08-18T02:05:12.877Z",
     "original_repository": "taowen/awesome-lowcode",
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
     "enhanced_repository": "enhansome/enhansome-lowcode",
