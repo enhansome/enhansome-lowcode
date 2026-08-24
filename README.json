@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T18:45:48Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40723
+            "stars": 40730
           }
         },
         {
@@ -215,7 +215,7 @@
             "last_commit": "2024-09-09T01:39:37Z",
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31078
+            "stars": 31081
           }
         },
         {
@@ -280,7 +280,7 @@
                 "last_commit": "2026-08-17T04:00:48Z",
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4932
+                "stars": 4933
               }
             }
           ]
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-20T11:23:57Z",
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 47443
+            "stars": 47453
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-20T19:53:46Z",
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33266
+            "stars": 33268
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 306829688,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T16:13:26Z",
+            "last_commit": "2026-08-23T17:45:04Z",
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23770
+            "stars": 23797
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-03-18T14:07:40Z",
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18885
+            "stars": 18886
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-02-01T10:02:34Z",
             "owner": "sparrow-js",
             "repo": "sparrow",
-            "stars": 3204
+            "stars": 3203
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2026-08-21T06:35:25Z",
             "owner": "steedos",
             "repo": "steedos-platform",
-            "stars": 1573
+            "stars": 1574
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2023-03-03T12:50:22Z",
             "owner": "fyl080801",
             "repo": "vjdesign",
-            "stars": 597
+            "stars": 596
           }
         },
         {
@@ -874,7 +874,7 @@
             "last_commit": "2026-01-02T15:53:30Z",
             "owner": "csx-bill",
             "repo": "quick-boot",
-            "stars": 107
+            "stars": 106
           }
         },
         {
@@ -1073,10 +1073,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-23T01:46:16Z",
+            "last_commit": "2026-08-24T02:09:34Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53863
+            "stars": 53891
           }
         },
         {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 1864194,
             "language": "Python",
-            "last_commit": "2026-08-22T21:10:44Z",
+            "last_commit": "2026-08-23T21:24:45Z",
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10614
+            "stars": 10618
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-08-21T14:59:23Z",
             "owner": "BuilderIO",
             "repo": "builder",
-            "stars": 8806
+            "stars": 8807
           }
         },
         {
@@ -1172,7 +1172,7 @@
             "last_commit": "2024-09-09T01:39:37Z",
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31078
+            "stars": 31081
           }
         },
         {
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:13:29.469Z",
+    "last_updated": "2026-08-24T02:12:08.143Z",
     "original_repository": "taowen/awesome-lowcode",
     "original_repository_id": 281703360,
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
