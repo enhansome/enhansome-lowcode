@@ -12,10 +12,10 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T18:45:48Z",
+            "last_commit": "2026-08-24T10:59:41Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40730
+            "stars": 40733
           }
         },
         {
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 159152904,
             "language": "Java",
-            "last_commit": "2026-08-20T11:23:57Z",
+            "last_commit": "2026-08-24T09:48:11Z",
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 47453
+            "stars": 47456
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-08-20T19:53:46Z",
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33268
+            "stars": 33270
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 306829688,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T17:45:04Z",
+            "last_commit": "2026-08-24T13:15:55Z",
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23797
+            "stars": 23814
           }
         },
         {
@@ -409,7 +409,7 @@
             "last_commit": "2026-05-26T06:16:52Z",
             "owner": "alibaba",
             "repo": "x-render",
-            "stars": 7854
+            "stars": 7853
           }
         },
         {
@@ -511,7 +511,7 @@
             "archived": false,
             "id": 173714958,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T06:35:25Z",
+            "last_commit": "2026-08-24T05:44:26Z",
             "owner": "steedos",
             "repo": "steedos-platform",
             "stars": 1574
@@ -1073,10 +1073,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-24T02:09:34Z",
+            "last_commit": "2026-08-24T13:52:44Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53891
+            "stars": 53908
           }
         },
         {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 1864194,
             "language": "Python",
-            "last_commit": "2026-08-23T21:24:45Z",
+            "last_commit": "2026-08-24T13:32:02Z",
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10618
+            "stars": 10621
           }
         },
         {
@@ -1103,7 +1103,7 @@
             "archived": false,
             "id": 168429268,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T14:59:23Z",
+            "last_commit": "2026-08-24T07:37:21Z",
             "owner": "BuilderIO",
             "repo": "builder",
             "stars": 8807
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:12:08.143Z",
+    "last_updated": "2026-08-24T13:56:20.581Z",
     "original_repository": "taowen/awesome-lowcode",
     "original_repository_id": 281703360,
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",

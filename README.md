@@ -2,7 +2,7 @@
 
 ## 全栈平台
 
-* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 40,730 | 🐛 4,472 | 🌐 TypeScript | 📅 2026-08-21）
+* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 40,733 | 🐛 4,472 | 🌐 TypeScript | 📅 2026-08-24）
 * [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder) ⭐ 12,310 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27）
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment) ⭐ 380 | 🐛 1 | 📅 2025-12-16
 * [双链DaaS](https://github.com/doublechaintech/daas-start-kit) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-23
@@ -218,15 +218,15 @@
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
-* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,453 | 🐛 34 | 🌐 Java | 📅 2026-08-20
-* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,268 | 🐛 258 | 🌐 Go | 📅 2026-08-20: 你不需要懂微服务，懂业务就行
-* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 23,797 | 🐛 292 | 🌐 TypeScript | 📅 2026-08-23：极易扩展的无代码开发平台
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,456 | 🐛 31 | 🌐 Java | 📅 2026-08-24
+* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,270 | 🐛 258 | 🌐 Go | 📅 2026-08-20: 你不需要懂微服务，懂业务就行
+* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 23,814 | 🐛 294 | 🌐 TypeScript | 📅 2026-08-24：极易扩展的无代码开发平台
 * [百度-amis](https://github.com/baidu/amis) ⭐ 18,886 | 🐛 1,714 | 🌐 TypeScript | 📅 2026-03-18
   * [Ovine](https://github.com/CareyToboo/ovine) ⭐ 749 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-03：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
 * <https://github.com/alibaba/lowcode-engine> ⭐ 15,880 | 🐛 664 | 🌐 TypeScript | 📅 2025-03-10
 * [form-generator](https://github.com/JakHuang/form-generator) ⭐ 9,320 | 🐛 137 | 🌐 Vue | 📅 2023-04-13：Element UI表单设计及代码生成器
-* [form-render](https://github.com/alibaba/form-render) ⭐ 7,854 | 🐛 57 | 🌐 TypeScript | 📅 2026-05-26：通过 JSON Schema 生成标准 Form，基于React
+* [form-render](https://github.com/alibaba/form-render) ⭐ 7,853 | 🐛 57 | 🌐 TypeScript | 📅 2026-05-26：通过 JSON Schema 生成标准 Form，基于React
 * [鲁班 H5](https://github.com/ly525/luban-h5) ⭐ 6,240 | 🐛 109 | 🌐 JavaScript | 📅 2026-01-03
 * [Mall-Cook](https://github.com/wangyuan389/mall-cook) ⭐ 5,590 | 🐛 17 | 🌐 Vue | 📅 2026-05-25
 * [运满满-码良](https://github.com/ymm-tech/gods-pen) ⭐ 4,453 | 🐛 43 | 🌐 Vue | 📅 2023-02-25
@@ -235,7 +235,7 @@
 * [Vue-Layout](https://github.com/jaweii/Vue-Layout) ⭐ 3,254 | 🐛 12 | 🌐 JavaScript | 📅 2019-11-12
 * [sparrow-js](https://github.com/sparrow-js/sparrow) ⚠️ Archived
   * [实时输出前端代码，折腾大半年的开源项目 sparrow-js](https://www.v2ex.com/t/718505)
-* [华炎魔方](https://github.com/steedos/steedos-platform/) ⭐ 1,574 | 🐛 580 | 🌐 TypeScript | 📅 2026-08-21
+* [华炎魔方](https://github.com/steedos/steedos-platform/) ⭐ 1,574 | 🐛 580 | 🌐 TypeScript | 📅 2026-08-24
   * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview)
 * [W5 SOAR](https://github.com/w5teams/w5) ⭐ 1,548 | 🐛 20 | 🌐 Python | 📅 2024-06-24
 * [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV) ⭐ 1,363 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-15
@@ -289,9 +289,9 @@
 
 ***
 
-* <https://github.com/odoo/odoo> ⭐ 53,891 | 🐛 10,462 | 🌐 Python | 📅 2026-08-24
-* <https://github.com/frappe/frappe> ⭐ 10,618 | 🐛 2,145 | 🌐 Python | 📅 2026-08-23
-* <https://github.com/BuilderIO/builder> ⭐ 8,807 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-21
+* <https://github.com/odoo/odoo> ⭐ 53,908 | 🐛 10,456 | 🌐 Python | 📅 2026-08-24
+* <https://github.com/frappe/frappe> ⭐ 10,621 | 🐛 2,022 | 🌐 Python | 📅 2026-08-24
+* <https://github.com/BuilderIO/builder> ⭐ 8,807 | 🐛 132 | 🌐 TypeScript | 📅 2026-08-24
 * <https://github.com/blocks/blocks> ⭐ 5,091 | 🐛 66 | 🌐 JavaScript | 📅 2026-08-14
 * <https://github.com/imgcook/imove> ⭐ 3,730 | 🐛 43 | 🌐 TypeScript | 📅 2022-03-22
 * <https://github.com/vigetlabs/colonel-kurtz> ⭐ 320 | 🐛 33 | 🌐 JavaScript | 📅 2023-06-03
@@ -509,7 +509,7 @@
 
 # RSS 订阅【今日阅读】
 
-<https://github.com/taowen/awesome-lowcode/commits.atom> ⭐ 14,715 | 🐛 11 | 📅 2024-11-07
+<https://github.com/taowen/awesome-lowcode/commits.atom> ⭐ 14,716 | 🐛 11 | 📅 2024-11-07
 
 ***
 
