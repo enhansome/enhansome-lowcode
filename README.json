@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T23:35:22Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40739
+            "stars": 40741
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-27T02:22:32Z",
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12311
+            "stars": 12310
           }
         },
         {
@@ -182,7 +182,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Github",
+              "title": "opentiny/tiny-engine",
               "description": null,
               "children": [],
               "repo_info": {
@@ -215,7 +215,7 @@
             "last_commit": "2024-09-09T01:39:37Z",
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31081
+            "stars": 31078
           }
         },
         {
@@ -303,7 +303,7 @@
             "last_commit": "2026-08-25T02:06:37Z",
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 47457
+            "stars": 47459
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 306829688,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:04:10Z",
+            "last_commit": "2026-08-25T02:29:03Z",
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23822
+            "stars": 23827
           }
         },
         {
@@ -369,7 +369,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/alibaba/lowcode-engine",
+          "title": "alibaba/lowcode-engine",
           "description": null,
           "children": [],
           "repo_info": {
@@ -394,7 +394,7 @@
             "last_commit": "2023-04-13T07:58:01Z",
             "owner": "JakHuang",
             "repo": "form-generator",
-            "stars": 9320
+            "stars": 9319
           }
         },
         {
@@ -999,7 +999,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/bojue/Web-Editor",
+          "title": "bojue/Web-Editor",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1049,7 +1049,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/alibaba/designable",
+              "title": "alibaba/designable",
               "description": null,
               "children": [],
               "repo_info": {
@@ -1066,37 +1066,37 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/odoo/odoo",
+          "title": "odoo/odoo",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-25T02:07:01Z",
+            "last_commit": "2026-08-25T05:37:45Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53922
+            "stars": 53923
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/frappe/frappe",
+          "title": "frappe/frappe",
           "description": null,
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1864194,
             "language": "Python",
-            "last_commit": "2026-08-25T02:06:26Z",
+            "last_commit": "2026-08-25T02:25:06Z",
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10627
+            "stars": 10628
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/BuilderIO/builder",
+          "title": "BuilderIO/builder",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1111,7 +1111,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/blocks/blocks",
+          "title": "blocks/blocks",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1126,7 +1126,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/imgcook/imove",
+          "title": "i5ting/imove",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1141,7 +1141,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/vigetlabs/colonel-kurtz",
+          "title": "vigetlabs/colonel-kurtz",
           "description": null,
           "children": [],
           "repo_info": {
@@ -1172,7 +1172,7 @@
             "last_commit": "2024-09-09T01:39:37Z",
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31081
+            "stars": 31078
           }
         },
         {
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:07:55.995Z",
+    "last_updated": "2026-08-25T05:44:24.565Z",
     "original_repository": "taowen/awesome-lowcode",
     "original_repository_id": 281703360,
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
