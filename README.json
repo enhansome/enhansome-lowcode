@@ -12,10 +12,10 @@
             "archived": false,
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:59:41Z",
+            "last_commit": "2026-08-24T23:35:22Z",
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40733
+            "stars": 40739
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-27T02:22:32Z",
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12310
+            "stars": 12311
           }
         },
         {
@@ -111,7 +111,7 @@
                 "last_commit": "2025-03-10T09:37:14Z",
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15880
+                "stars": 15881
               }
             }
           ]
@@ -280,7 +280,7 @@
                 "last_commit": "2026-08-17T04:00:48Z",
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4933
+                "stars": 4934
               }
             }
           ]
@@ -300,10 +300,10 @@
             "archived": false,
             "id": 159152904,
             "language": "Java",
-            "last_commit": "2026-08-24T09:48:11Z",
+            "last_commit": "2026-08-25T02:06:37Z",
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 47456
+            "stars": 47457
           }
         },
         {
@@ -315,10 +315,10 @@
             "archived": false,
             "id": 285864199,
             "language": "Go",
-            "last_commit": "2026-08-20T19:53:46Z",
+            "last_commit": "2026-08-24T19:54:12Z",
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33270
+            "stars": 33276
           }
         },
         {
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 306829688,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:15:55Z",
+            "last_commit": "2026-08-25T01:04:10Z",
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23814
+            "stars": 23822
           }
         },
         {
@@ -364,7 +364,7 @@
             "last_commit": "2026-03-18T14:07:40Z",
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18886
+            "stars": 18884
           }
         },
         {
@@ -379,7 +379,7 @@
             "last_commit": "2025-03-10T09:37:14Z",
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15880
+            "stars": 15881
           }
         },
         {
@@ -424,7 +424,7 @@
             "last_commit": "2026-01-03T13:43:20Z",
             "owner": "ly525",
             "repo": "luban-h5",
-            "stars": 6240
+            "stars": 6239
           }
         },
         {
@@ -439,7 +439,7 @@
             "last_commit": "2026-05-25T08:08:20Z",
             "owner": "wangyuan389",
             "repo": "mall-cook",
-            "stars": 5590
+            "stars": 5592
           }
         },
         {
@@ -709,7 +709,7 @@
             "last_commit": "2023-03-03T12:50:22Z",
             "owner": "fyl080801",
             "repo": "vjdesign",
-            "stars": 596
+            "stars": 595
           }
         },
         {
@@ -1073,10 +1073,10 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-24T13:52:44Z",
+            "last_commit": "2026-08-25T02:07:01Z",
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 53908
+            "stars": 53922
           }
         },
         {
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 1864194,
             "language": "Python",
-            "last_commit": "2026-08-24T13:32:02Z",
+            "last_commit": "2026-08-25T02:06:26Z",
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10621
+            "stars": 10627
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2026-08-24T07:37:21Z",
             "owner": "BuilderIO",
             "repo": "builder",
-            "stars": 8807
+            "stars": 8808
           }
         },
         {
@@ -1202,7 +1202,7 @@
             "last_commit": "2026-07-20T15:22:43Z",
             "owner": "woai3c",
             "repo": "Front-end-articles",
-            "stars": 1645
+            "stars": 1644
           }
         }
       ],
@@ -1210,7 +1210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:56:20.581Z",
+    "last_updated": "2026-08-25T02:07:55.995Z",
     "original_repository": "taowen/awesome-lowcode",
     "original_repository_id": 281703360,
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
