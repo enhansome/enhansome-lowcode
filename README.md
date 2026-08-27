@@ -218,9 +218,9 @@
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
-* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,492 | 🐛 39 | 🌐 Java | 📅 2026-08-27
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,492 | 🐛 37 | 🌐 Java | 📅 2026-08-27
 * [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,281 | 🐛 263 | 🌐 Go | 📅 2026-08-24: 你不需要懂微服务，懂业务就行
-* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 23,888 | 🐛 297 | 🌐 TypeScript | 📅 2026-08-27：极易扩展的无代码开发平台
+* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 23,888 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-27：极易扩展的无代码开发平台
 * [百度-amis](https://github.com/baidu/amis) ⭐ 18,889 | 🐛 1,714 | 🌐 TypeScript | 📅 2026-03-18
   * [Ovine](https://github.com/CareyToboo/ovine) ⭐ 749 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-03：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
@@ -289,8 +289,8 @@
 
 ***
 
-* <https://github.com/odoo/odoo> ⭐ 53,981 | 🐛 10,440 | 🌐 Python | 📅 2026-08-27
-* <https://github.com/frappe/frappe> ⭐ 10,646 | 🐛 1,997 | 🌐 Python | 📅 2026-08-27
+* <https://github.com/odoo/odoo> ⭐ 53,981 | 🐛 10,436 | 🌐 Python | 📅 2026-08-27
+* <https://github.com/frappe/frappe> ⭐ 10,647 | 🐛 1,999 | 🌐 Python | 📅 2026-08-27
 * <https://github.com/BuilderIO/builder> ⭐ 8,808 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-24
 * <https://github.com/blocks/blocks> ⭐ 5,091 | 🐛 68 | 🌐 JavaScript | 📅 2026-08-26
 * <https://github.com/imgcook/imove> ⭐ 3,730 | 🐛 43 | 🌐 TypeScript | 📅 2022-03-22

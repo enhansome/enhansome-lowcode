@@ -1073,7 +1073,7 @@
             "archived": false,
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-27T10:13:00Z",
+            "last_commit": "2026-08-27T11:43:53Z",
             "owner": "odoo",
             "repo": "odoo",
             "stars": 53981
@@ -1088,10 +1088,10 @@
             "archived": false,
             "id": 1864194,
             "language": "Python",
-            "last_commit": "2026-08-27T10:18:48Z",
+            "last_commit": "2026-08-27T11:37:26Z",
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10646
+            "stars": 10647
           }
         },
         {
@@ -1210,9 +1210,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:31:23.267Z",
-    "original_repository": "taowen/awesome-lowcode",
-    "original_repository_id": 281703360,
+    "last_updated": "2026-08-27T11:49:48.717Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 281703360,
+      "language": null,
+      "last_commit": "2024-11-07T02:24:32Z",
+      "owner": "taowen",
+      "repo": "awesome-lowcode",
+      "stars": 14715
+    },
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
     "enhanced_repository": "enhansome/enhansome-lowcode",
     "enhanced_repository_description": null,
