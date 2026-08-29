@@ -2,7 +2,7 @@
 
 ## 全栈平台
 
-* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 40,778 | 🐛 4,470 | 🌐 TypeScript | 📅 2026-08-29）
+* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 40,779 | 🐛 4,471 | 🌐 TypeScript | 📅 2026-08-29）
 * [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder) ⭐ 12,312 | 🐛 43 | 🌐 TypeScript | 📅 2026-05-27）
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment) ⭐ 381 | 🐛 1 | 📅 2025-12-16
 * [双链DaaS](https://github.com/doublechaintech/daas-start-kit) ⭐ 166 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-23
@@ -136,13 +136,13 @@
 
 仅包含前端部分的 low code 平台
 
-* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md) ⭐ 31,090 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-09
+* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md) ⭐ 31,091 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-09
 
 * \[LLMStack] (<https://github.com/trypromptly/LLMStack> ⭐ 2,311 | 🐛 23 | 🌐 Python | 📅 2024-12-11)
 
 * [Everright-formEditor](https://github.com/Liberty-liu/Everright-formEditor) ⭐ 511 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-22 一个可视化低代码表单编辑器，拥有多个组件、适配跨平台、多语言支持
 
-* [Chameleon Engine](https://github.com/hlerenow/chameleon) ⭐ 228 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-15
+* [Chameleon Engine](https://github.com/hlerenow/chameleon) ⭐ 228 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-29
   * 高自由度的可视化编辑引擎
 
 * [MAKA](http://maka.im/)
@@ -218,9 +218,9 @@
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
-* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,526 | 🐛 38 | 🌐 Java | 📅 2026-08-27
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 47,528 | 🐛 38 | 🌐 Java | 📅 2026-08-27
 * [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,285 | 🐛 262 | 🌐 Go | 📅 2026-08-29: 你不需要懂微服务，懂业务就行
-* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 23,917 | 🐛 300 | 🌐 TypeScript | 📅 2026-08-29：极易扩展的无代码开发平台
+* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 23,921 | 🐛 300 | 🌐 TypeScript | 📅 2026-08-29：极易扩展的无代码开发平台
 * [百度-amis](https://github.com/baidu/amis) ⭐ 18,887 | 🐛 1,714 | 🌐 TypeScript | 📅 2026-03-18
   * [Ovine](https://github.com/CareyToboo/ovine) ⭐ 749 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-03：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
@@ -289,8 +289,8 @@
 
 ***
 
-* <https://github.com/odoo/odoo> ⭐ 54,018 | 🐛 10,408 | 🌐 Python | 📅 2026-08-29
-* <https://github.com/frappe/frappe> ⭐ 10,656 | 🐛 2,026 | 🌐 Python | 📅 2026-08-29
+* <https://github.com/odoo/odoo> ⭐ 54,020 | 🐛 10,403 | 🌐 Python | 📅 2026-08-29
+* <https://github.com/frappe/frappe> ⭐ 10,657 | 🐛 2,026 | 🌐 Python | 📅 2026-08-29
 * <https://github.com/BuilderIO/builder> ⭐ 8,811 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-28
 * <https://github.com/blocks/blocks> ⭐ 5,093 | 🐛 68 | 🌐 JavaScript | 📅 2026-08-26
 * <https://github.com/imgcook/imove> ⭐ 3,730 | 🐛 43 | 🌐 TypeScript | 📅 2022-03-22
@@ -336,7 +336,7 @@
 
 ## 技术点
 
-* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262) ⭐ 31,090 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-09
+* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262) ⭐ 31,091 | 🐛 15 | 🌐 JavaScript | 📅 2024-09-09
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38) ⭐ 6,630 | 🐛 30 | 📅 2024-08-01
 * [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45) ⭐ 1,644 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-28
 * 可逆计算
