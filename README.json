@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "homepage": "https://www.appsmith.com",
             "id": 275993885,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:04:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:38:04Z",
+            "open_issues": 4470,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40771
+            "stars": 40778,
+            "topics": [
+              "admin-dashboard",
+              "admin-panels",
+              "app-builder",
+              "automation",
+              "crud",
+              "custom-internal",
+              "developer-tools",
+              "gui",
+              "gui-application",
+              "hacktoberfest",
+              "internal-tools",
+              "java",
+              "javascript",
+              "low-code",
+              "low-code-framework",
+              "react",
+              "self-hosted",
+              "typescript",
+              "webdevelopment",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -26,12 +52,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool. ",
+            "homepage": null,
             "id": 482719022,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T02:22:32Z",
+            "open_issues": 43,
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12312
+            "stars": 12312,
+            "topics": [
+              "aiagent",
+              "app-builder",
+              "crud-application",
+              "developer-tool",
+              "developer-tools",
+              "gui",
+              "hacktoberfest",
+              "internal-development",
+              "internal-tool",
+              "internal-tools",
+              "low-code",
+              "low-code-development-platform",
+              "lowcode",
+              "react",
+              "self-hosted",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -42,12 +90,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "明道云私有部署版 - 快速部署可免费使用的零代码企业应用平台（APaaS）",
+            "homepage": "https://docs-pd.mingdao.com",
             "id": 241605744,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2025-12-16T05:58:38Z",
+            "open_issues": 1,
             "owner": "mingdaocom",
             "repo": "pd",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "apaas",
+              "docker",
+              "helm",
+              "kubernetes",
+              "low-code",
+              "no-code",
+              "no-code-coverage",
+              "no-code-platform"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -63,12 +125,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A model-mediated harness for reliable agentic software development.",
+                "homepage": "https://teaql.io",
                 "id": 162171043,
-                "language": null,
-                "last_commit": "2026-08-25T08:00:24Z",
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-08-28T20:29:53Z",
+                "open_issues": 1,
                 "owner": "teaql",
                 "repo": "teaql-agent-kit",
-                "stars": 2800
+                "stars": 2801,
+                "topics": [
+                  "agentic-coding",
+                  "ai-coding",
+                  "code-generation",
+                  "coding-agent",
+                  "ddd",
+                  "developer-tools",
+                  "domain-driven-design",
+                  "java",
+                  "rust",
+                  "semantic-guardrails",
+                  "semantic-modeling",
+                  "teaql"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             },
@@ -79,24 +159,51 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A low code learning project run with github actions",
+                "homepage": "https://www.doublechaintech.com/",
                 "id": 269558472,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-12T09:24:54Z",
+                "open_issues": 2,
                 "owner": "doublechaintech",
                 "repo": "daas-with-github-actions",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "ant-design",
+                  "knowledge-graph",
+                  "large-scale",
+                  "low-code-development-platform",
+                  "mysql",
+                  "redis"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "React/Java 技术栈，代码和数据云端生成，本地部署低代码平台，手写代码和生成代码目录分离，适合专业开发人员开发长期维护的软件。",
+            "homepage": null,
             "id": 220388557,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-10-23T05:10:25Z",
+            "open_issues": 0,
             "owner": "doublechaintech",
             "repo": "daas-start-kit",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "antdesign",
+              "java",
+              "knowledge-graph",
+              "low-code",
+              "low-code-plattform",
+              "mysql",
+              "postgresql",
+              "saas-tools",
+              "spring"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -112,12 +219,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+                "homepage": "https://lowcode-engine.cn",
                 "id": 440079558,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-03-10T09:37:14Z",
+                "open_issues": 664,
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15883
+                "stars": 15882,
+                "topics": [
+                  "alibaba",
+                  "low-code",
+                  "lowcode"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
@@ -135,12 +251,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Django based no code Admin and low code develop framework",
+                "homepage": "https://git-men.github.io/lightning-doc/",
                 "id": 317185087,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-01-28T13:01:45Z",
+                "open_issues": 6,
                 "owner": "git-men",
                 "repo": "lightning",
-                "stars": 180
+                "stars": 180,
+                "topics": [
+                  "admin",
+                  "django",
+                  "lowcode",
+                  "nocode",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
@@ -158,12 +285,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "crudapi增删改查接口零代码后台管理页面，一键快速CRUD。框架采用Vue，控件库为Quasar， 形式为SPA单页面应用。 主要知识点：Vue基本知识，自定义组件，axios网络请求，Vuex状态管理，Router路由，本地存储LocalStorage、Session、Cookie，登录，本地调试，docker打包等。 主要功能：元数据管理，序列号管理，表关系设置，业务数据crud增删改查，数据导入导出等。",
+                "homepage": "https://crudapi.cn",
                 "id": 344124606,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-05-21T06:41:11Z",
+                "open_issues": 2,
                 "owner": "crudapi",
                 "repo": "crudapi-admin-web",
-                "stars": 210
+                "stars": 210,
+                "topics": [
+                  "crud",
+                  "crudapi",
+                  "low-code",
+                  "nocode",
+                  "quasar",
+                  "restful",
+                  "vue",
+                  "zero-code"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             },
@@ -174,12 +315,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "crudapi是crud+api组合，表示增删改查接口，是一款零代码可配置的产品。使用crudapi可以告别枯燥无味的增删改查代码，让您更加专注业务，节约大量成本，从而提高工作效率。crudapi的目标是让处理数据变得更简单，所有人都可以免费使用！无需编程，通过配置自动生成crud增删改查RESTful API，提供后台Web管理UI。基于主流的开源框架，后端采用Spring Boot。",
+                "homepage": "https://demo.crudapi.cn/crudapi/",
                 "id": 358228087,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-12-26T11:31:38Z",
+                "open_issues": 0,
                 "owner": "crudapi",
                 "repo": "crudapi-example",
-                "stars": 20
+                "stars": 20,
+                "topics": [
+                  "api",
+                  "crud",
+                  "crudapi",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
@@ -197,12 +348,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+                "homepage": "https://opentiny.design/tiny-engine",
                 "id": 692940123,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2026-08-28T02:35:01Z",
+                "open_issues": 140,
                 "owner": "opentiny",
                 "repo": "tiny-engine",
-                "stars": 2784
+                "stars": 2784,
+                "topics": [
+                  "frontend",
+                  "lowcode",
+                  "lowcode-engine",
+                  "opentiny",
+                  "tiny-engine"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
@@ -221,12 +383,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+            "homepage": null,
             "id": 85541218,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-09T01:39:37Z",
+            "open_issues": 15,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31089
+            "stars": 31090,
+            "topics": [
+              "awesome",
+              "frontend",
+              "weekly"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -237,12 +408,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "No-code multi-agent framework to build LLM Agents, workflows and applications with your data",
+            "homepage": "https://llmstack.trypromptly.com",
             "id": 675151062,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-11T19:59:51Z",
+            "open_issues": 23,
             "owner": "trypromptly",
             "repo": "LLMStack",
-            "stars": 2311
+            "stars": 2311,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents-framework",
+              "generative-ai",
+              "llm-agents",
+              "llm-chain",
+              "llm-framework",
+              "llmops",
+              "llms",
+              "no-code-ai",
+              "platform"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -253,12 +441,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":guide_dog: Powerful lowcode|vue form editor,generator,designer,builder library. It provides an easy way to create custom forms. The project is extensible, easy to use and configure, and provides many commonly used form components and functions(vue可视化低代码表单设计器、表单编辑器、element-plus vant表单设计)",
+            "homepage": "https://everright.site/en/formEditor/introduction.html",
             "id": 616825689,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-22T12:54:43Z",
+            "open_issues": 8,
             "owner": "Liberty-liu",
             "repo": "Everright-formEditor",
-            "stars": 511
+            "stars": 511,
+            "topics": [
+              "designer",
+              "drag-and-drop",
+              "element-plus",
+              "everright",
+              "form",
+              "form-builder",
+              "form-designer",
+              "form-editor",
+              "form-generator",
+              "json-form",
+              "low-code",
+              "lowcode-editor",
+              "no-code",
+              "schema-form",
+              "validator",
+              "vant",
+              "vue",
+              "vue-form",
+              "vue3",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -269,12 +483,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React Web visual programming engine -- LowCode",
+            "homepage": "https://hlerenow.github.io/chameleon/",
             "id": 447822589,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T03:33:06Z",
+            "open_issues": 2,
             "owner": "hlerenow",
             "repo": "chameleon",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "editor",
+              "engine",
+              "lowcode",
+              "lowcode-editor",
+              "lowcode-engine",
+              "react",
+              "visual",
+              "web-builder-framework",
+              "web-editor",
+              "webpage"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -290,12 +520,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 460314453,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-17T04:00:48Z",
+                "open_issues": 75,
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4934
+                "stars": 4932,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
@@ -314,12 +549,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+            "homepage": "https://jeecg.com",
             "id": 159152904,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T03:29:52Z",
+            "open_issues": 38,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 47518
+            "stars": 47526,
+            "topics": [
+              "activiti",
+              "agent",
+              "ai",
+              "antd",
+              "claude-code",
+              "cli",
+              "codegenerator",
+              "codex",
+              "flowable",
+              "langchain4j",
+              "llm",
+              "low-code",
+              "mcp",
+              "mybatis-plus",
+              "rag",
+              "skills",
+              "spring-ai",
+              "springboot",
+              "springcloud",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -330,12 +591,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cloud-native Go microservices framework with cli tool for productivity.",
+            "homepage": "https://go-zero.dev",
             "id": 285864199,
             "language": "Go",
-            "last_commit": "2026-08-27T19:52:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:46:53Z",
+            "open_issues": 262,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33283
+            "stars": 33285,
+            "topics": [
+              "ai-native",
+              "ai-native-development",
+              "cloud-native",
+              "code-generation",
+              "framework",
+              "gateway",
+              "go",
+              "golang",
+              "grpc-gateway",
+              "microservice",
+              "microservice-framework",
+              "microservices",
+              "microservices-architecture",
+              "rest-api",
+              "restful",
+              "restful-api",
+              "rpc",
+              "rpc-framework",
+              "spec-driven-development",
+              "web-framework"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -346,12 +633,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
+            "homepage": "https://www.nocobase.com",
             "id": 306829688,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:01:23Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T01:20:59Z",
+            "open_issues": 300,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 23907
+            "stars": 23917,
+            "topics": [
+              "admin-dashboard",
+              "ai-agent",
+              "ai-agents",
+              "ai-assistant",
+              "ai-tools",
+              "crm",
+              "crud",
+              "dsh-plugin",
+              "erp",
+              "internal-tool",
+              "internal-tools",
+              "low-code",
+              "lowcode",
+              "no-code",
+              "nocode",
+              "project-management",
+              "salesforce",
+              "self-hosted",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -367,24 +679,57 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ovine由于存在设计缺陷不再更新。 新版会在 ovine-next 重写。  https://github.com/ovineio/ovine-next",
+                "homepage": "https://ovine.igroupes.com/",
                 "id": 140168911,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-03T22:12:58Z",
+                "open_issues": 30,
                 "owner": "ovineio",
                 "repo": "ovine",
-                "stars": 749
+                "stars": 749,
+                "topics": [
+                  "admin",
+                  "admin-template",
+                  "amis",
+                  "amis-demo",
+                  "antd",
+                  "antd-design",
+                  "json",
+                  "json-form",
+                  "low-code",
+                  "ovine",
+                  "react",
+                  "react-admin",
+                  "webpack"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+            "homepage": "https://baidu.github.io/amis/",
             "id": 183874244,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-18T14:07:40Z",
+            "open_issues": 1714,
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18887
+            "stars": 18887,
+            "topics": [
+              "admin",
+              "frontend",
+              "frontend-framework",
+              "json",
+              "low-code",
+              "low-code-development-platform",
+              "lowcode",
+              "no-code"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -395,12 +740,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+            "homepage": "https://lowcode-engine.cn",
             "id": 440079558,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-10T09:37:14Z",
+            "open_issues": 664,
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15883
+            "stars": 15882,
+            "topics": [
+              "alibaba",
+              "low-code",
+              "lowcode"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -411,12 +765,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sparkles:Element UI表单设计及代码生成器",
+            "homepage": "https://jakhuang.github.io/form-generator",
             "id": 230770468,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-04-13T07:58:01Z",
+            "open_issues": 137,
             "owner": "JakHuang",
             "repo": "form-generator",
-            "stars": 9319
+            "stars": 9319,
+            "topics": [
+              "element-ui",
+              "form-designer",
+              "monaco-editor",
+              "vue",
+              "vue-jsx",
+              "vue-multipage",
+              "vue-render",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -427,12 +795,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚴‍♀️ Very easy to use process form table chart solution.",
+            "homepage": "https://xrender.fun",
             "id": 211033256,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-26T06:16:52Z",
+            "open_issues": 57,
             "owner": "alibaba",
             "repo": "x-render",
-            "stars": 7855
+            "stars": 7855,
+            "topics": [
+              "ant",
+              "ant-design",
+              "chart",
+              "form",
+              "formrender",
+              "javascript",
+              "json-schema",
+              "list",
+              "react",
+              "table",
+              "typescript",
+              "webpack",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -443,12 +830,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.",
+            "homepage": "https://h5.luban.website/",
             "id": 190713547,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-03T13:43:20Z",
+            "open_issues": 109,
             "owner": "ly525",
             "repo": "luban-h5",
-            "stars": 6236
+            "stars": 6235,
+            "topics": [
+              "ant-design",
+              "design-tool",
+              "editor",
+              "h5",
+              "mobile-page-maker",
+              "page-builder",
+              "page-editor",
+              "page-generator",
+              "page-maker",
+              "strapi",
+              "vue",
+              "vuejs",
+              "vuejs2",
+              "web-design",
+              "web-design-framework",
+              "webflow"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -459,12 +868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "商城低代码平台，可视化搭建H5、小程序多端商城",
+            "homepage": "http://www.sunmao-design.top",
             "id": 409094972,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-05-25T08:08:20Z",
+            "open_issues": 17,
             "owner": "wangyuan389",
             "repo": "mall-cook",
-            "stars": 5605
+            "stars": 5606,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -475,12 +889,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink. ",
+            "homepage": "https://godspen.ymm56.com",
             "id": 180064351,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-02-25T02:45:26Z",
+            "open_issues": 43,
             "owner": "ymm-tech",
             "repo": "gods-pen",
-            "stars": 4452
+            "stars": 4452,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -491,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。",
+            "homepage": "https://rxdrag.vercel.app/",
             "id": 237560248,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-09-03T22:21:27Z",
+            "open_issues": 38,
             "owner": "codebdy",
             "repo": "rxdrag",
-            "stars": 3751
+            "stars": 3751,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -507,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于UI组件的Vue可视化布局工具",
+            "homepage": "https://jaweii.github.io/Vue-Layout/dist",
             "id": 100263409,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-11-12T14:21:20Z",
+            "open_issues": 12,
             "owner": "jaweii",
             "repo": "Vue-Layout",
-            "stars": 3251
+            "stars": 3251,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -523,12 +952,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🎉场景化低代码（LowCode）搭建工作台，实时输出源代码",
+            "homepage": "https://sparrow-js.github.io/sparrow-vue-site/",
             "id": 237135093,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-01T10:02:34Z",
+            "open_issues": 13,
             "owner": "sparrow-js",
             "repo": "sparrow",
-            "stars": 3202
+            "stars": 3202,
+            "topics": [
+              "editor",
+              "element-ui",
+              "low-code",
+              "lowcode",
+              "site-generator",
+              "sparrow",
+              "sparrow-js",
+              "sparrowjs",
+              "vue",
+              "vue-admin",
+              "vue-builder"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -539,12 +985,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The AI-Native Infrastructure for Enterprise Apps. Powered by ObjectStack (ObjectQL, ObjectOS, Object UI). Turn Prompts into Enterprise Software.",
+            "homepage": "https://www.objectstack.ai",
             "id": 173714958,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T10:00:56Z",
+            "open_issues": 580,
             "owner": "steedos",
             "repo": "steedos-platform",
-            "stars": 1574
+            "stars": 1574,
+            "topics": [
+              "airtable",
+              "amis",
+              "appsmith",
+              "bpm",
+              "budibase",
+              "chatgpt",
+              "clickpaas",
+              "erp",
+              "low-code",
+              "lowcode",
+              "mendix",
+              "moleculer",
+              "no-code",
+              "odoo",
+              "openapi",
+              "outsystems",
+              "paas",
+              "saas",
+              "salesforce",
+              "sap"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -555,12 +1027,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security Orchestration, Automation and Response (SOAR) Platform. 安全编排与自动化响应平台，无需编写代码的安全自动化，使用 SOAR 可以让团队工作更加高效",
+            "homepage": "https://w5.io",
             "id": 316101837,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-24T02:31:31Z",
+            "open_issues": 20,
             "owner": "w5teams",
             "repo": "w5",
-            "stars": 1548
+            "stars": 1548,
+            "topics": [
+              "automation",
+              "devops",
+              "hack",
+              "hacker",
+              "hacking",
+              "python-script",
+              "python3",
+              "security",
+              "security-audit",
+              "security-automation",
+              "security-tools",
+              "shuffle",
+              "soar",
+              "tools",
+              "w5",
+              "w5soar",
+              "walkoff"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -571,12 +1066,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化🌈开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。",
+            "homepage": "https://ansgoo.github.io/openDataV/",
             "id": 459795802,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T13:15:28Z",
+            "open_issues": 4,
             "owner": "AnsGoo",
             "repo": "openDataV",
-            "stars": 1364
+            "stars": 1364,
+            "topics": [
+              "bigscreen",
+              "datav",
+              "draggable",
+              "kanban",
+              "low-code",
+              "low-code-framework",
+              "typescript",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -587,12 +1096,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Design websites in your browser. A smart web editor!",
+            "homepage": "https://gaeajs.github.io/gaea-site/",
             "id": 68707338,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-05-22T01:50:45Z",
+            "open_issues": 16,
             "owner": "ascoders",
             "repo": "gaea-editor",
-            "stars": 1349
+            "stars": 1349,
+            "topics": [
+              "editor",
+              "web-design",
+              "web-editor"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -603,12 +1121,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌾页面可视化搭建框架的web编辑器 -- https://page-pipepline.github.io/pipeline-editor/dist/#/",
+            "homepage": null,
             "id": 130729271,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-07T02:20:37Z",
+            "open_issues": 17,
             "owner": "page-pipepline",
             "repo": "pipeline-editor",
-            "stars": 1016
+            "stars": 1016,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -619,12 +1142,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "h5编辑器类似maka、易企秀 账号/密码：admin",
+            "homepage": "http://h5.limesoftware.cn",
             "id": 92138727,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-11T07:42:15Z",
+            "open_issues": 61,
             "owner": "zhengguorong",
             "repo": "h5maker",
-            "stars": 908
+            "stars": 908,
+            "topics": [
+              "express",
+              "node",
+              "vue",
+              "vuex"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -635,12 +1168,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "h5制作，移动端专题活动页面可视化编辑",
+            "homepage": "https://yangyuji.github.io/h5-factory/",
             "id": 178355802,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-03-03T17:56:30Z",
+            "open_issues": 23,
             "owner": "yangyuji",
             "repo": "h5-factory",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "h5-creater",
+              "h5-editor",
+              "h5-factory",
+              "low-code"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -651,12 +1194,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀  Pluggable enterprise-level configurable framework based on antd.",
+            "homepage": "https://docs.sula.vercel.app",
             "id": 255616696,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-11-11T10:43:25Z",
+            "open_issues": 63,
             "owner": "umijs",
             "repo": "sula",
-            "stars": 784
+            "stars": 784,
+            "topics": [
+              "json-schema",
+              "sula",
+              "sula-builder",
+              "sula-cooker",
+              "sula-real",
+              "umi"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -667,12 +1222,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "此项目已暂停开发",
+            "homepage": null,
             "id": 104577578,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-19T04:05:07Z",
+            "open_issues": 6,
             "owner": "furioussoul",
             "repo": "tailmaster",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "codegen",
+              "codegenerator",
+              "dnd",
+              "generator",
+              "iview",
+              "vue",
+              "vuecodegenerator"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -683,12 +1251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 bootstrap 实现可视化布局的 layoutit.com 离线中文版",
+            "homepage": "http://layoutit.justjavac.com",
             "id": 10113876,
             "language": "HTML",
+            "license": null,
             "last_commit": "2019-06-06T07:07:21Z",
+            "open_issues": 0,
             "owner": "justjavac",
             "repo": "layoutit",
-            "stars": 762
+            "stars": 762,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -699,12 +1272,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💻 无代码编辑器，无需代码生成小程序、H5页面和网站 ，拖拽操作、样式配置快速生成页面应用，数据可视化接入，支持定制业务拓展插件. StaringOS MtBird is a low-code platform for HTML Pages 、 Websites. We help users build pages without code or less code.",
+            "homepage": "https://staringos.com?f=gh-mtbird",
             "id": 572331340,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-22T10:42:54Z",
+            "open_issues": 1,
             "owner": "staringos",
             "repo": "mtbird",
-            "stars": 756
+            "stars": 756,
+            "topics": [
+              "ant-design",
+              "editor",
+              "html5",
+              "low-code",
+              "low-code-framework",
+              "mini-program",
+              "no-code",
+              "no-code-framework",
+              "nocode",
+              "nodejs",
+              "react",
+              "renderer",
+              "saas"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -715,12 +1307,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "网页设计器图形化工具,通过拖拽组件进行页面排版和生成页面代码",
+            "homepage": "https://xiaoai7904.github.io/web_designer",
             "id": 177559735,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-10-13T10:15:36Z",
+            "open_issues": 39,
             "owner": "xiaoai7904",
             "repo": "web_designer",
-            "stars": 644
+            "stars": 644,
+            "topics": [
+              "designer",
+              "drag-and-drop",
+              "element-ui",
+              "js",
+              "vue",
+              "vue-cli",
+              "vue-components",
+              "vue-router"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -731,12 +1337,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或Maka 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。",
+            "homepage": null,
             "id": 448164235,
             "language": "Vue",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-27T09:04:45Z",
+            "open_issues": 16,
             "owner": "tnfe",
             "repo": "shida",
-            "stars": 623
+            "stars": 623,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -747,12 +1358,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vue 界面可视化设计器，支持任何 html 标签以及项目中引用的组件，可实现仅通过配置文件就能增加支持的组件和组件属性",
+            "homepage": null,
             "id": 247527335,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2023-03-03T12:50:22Z",
+            "open_issues": 14,
             "owner": "fyl080801",
             "repo": "vjdesign",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "designer",
+              "lowcode",
+              "visualization-tools",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -763,12 +1384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "随心秀(react版h5微场景编辑器)，一款类似【易企秀】【兔展】的H5微场景编辑器",
+            "homepage": "http://show.lzuntalented.cn",
             "id": 182125450,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-17T18:51:13Z",
+            "open_issues": 14,
             "owner": "lzuntalented",
             "repo": "lz-h5-edit",
-            "stars": 527
+            "stars": 527,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -779,12 +1405,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 Vue 的可视化布局编辑器插件。A Visual layout editor plugin based on vue.",
+            "homepage": "http://oxoyo.co/X-Page-Editor-Vue/",
             "id": 126145204,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-12-07T23:49:44Z",
+            "open_issues": 8,
             "owner": "OXOYO",
             "repo": "X-Page-Editor-Vue",
-            "stars": 465
+            "stars": 465,
+            "topics": [
+              "form-editor",
+              "form-editor-vue"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -795,12 +1429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "visual editor， low-code",
+            "homepage": null,
             "id": 244938342,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-09-26T12:05:39Z",
+            "open_issues": 24,
             "owner": "parlay96",
             "repo": "pl-drag-template",
-            "stars": 416
+            "stars": 416,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -811,12 +1450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案",
+            "homepage": null,
             "id": 200761232,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-01T16:17:47Z",
+            "open_issues": 65,
             "owner": "vipshop",
             "repo": "ams",
-            "stars": 393
+            "stars": 393,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -827,12 +1471,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏭 (Beta) 轻量级无代码/低代码 H5、表单编辑器。Lightweight no-code/low-code editor for website、H5 page and Form. Build your page without code! ",
+            "homepage": "https://staringos.com",
             "id": 257149893,
             "language": "Vue",
+            "license": null,
             "last_commit": "2023-07-20T00:30:49Z",
+            "open_issues": 6,
             "owner": "staringos",
             "repo": "tefact",
-            "stars": 346
+            "stars": 346,
+            "topics": [
+              "admin-dashboard",
+              "crud",
+              "h5",
+              "low-code",
+              "low-code-development-platform",
+              "low-code-platform",
+              "no-code",
+              "nuxt",
+              "typescript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -843,12 +1503,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "nextjs + nest.js 构建页面可视化编辑器 -- Ramiko",
+            "homepage": "http://124.221.147.83:4002/editor",
             "id": 274918976,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-03-08T00:32:28Z",
+            "open_issues": 6,
             "owner": "fantasticit",
             "repo": "ramiko",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "h5",
+              "reactjs",
+              "visual",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -859,12 +1529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gen是根据接口生成页面，减少重复性工作！ 目标让用户快速搭建Web App",
+            "homepage": "http://gen.sdemo.cn",
             "id": 128647833,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-02-12T09:18:09Z",
+            "open_issues": 3,
             "owner": "genany",
             "repo": "gen",
-            "stars": 275
+            "stars": 275,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -875,12 +1550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个简单的活动页面运营发布系统",
+            "homepage": null,
             "id": 50517202,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-02-12T06:10:09Z",
+            "open_issues": 6,
             "owner": "laispace",
             "repo": "pager",
-            "stars": 251
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -891,12 +1571,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于vue的针对admin应用的low code解决方案",
+            "homepage": "https://jiangshanmeta.github.io/vue-admin/",
             "id": 98075615,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2025-04-16T15:29:55Z",
+            "open_issues": 5,
             "owner": "jiangshanmeta",
             "repo": "vue-admin",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "lowcode",
+              "vue",
+              "vue-admin"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -907,12 +1596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dragable and configurable platform for repeatability webpages based on Vue2.0",
+            "homepage": null,
             "id": 82286672,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-27T11:22:26Z",
+            "open_issues": 4,
             "owner": "Eyot424",
             "repo": "blocks",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -923,12 +1617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 594058868,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-01-02T15:53:30Z",
+            "open_issues": 0,
             "owner": "csx-bill",
             "repo": "quick-boot",
-            "stars": 106
+            "stars": 106,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -939,12 +1638,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "react 可视化搭建平台,移动端可视化编辑平台,低代码设计平台,组件复用  低代码 无代码",
+            "homepage": "https://koki-5ghulbfed42032ec-1301619189.tcloudbaseapp.com/#/visual-page/edit?pageId=807102f66241a729026a85cf5e4b3926",
             "id": 281715085,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-17T19:39:13Z",
+            "open_issues": 7,
             "owner": "react-visual-design",
             "repo": "react-visual-design",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "dumi",
+              "formily",
+              "low-code",
+              "low-code-framework",
+              "react",
+              "react-low-code-design",
+              "react-visual-design",
+              "reactjs",
+              "umijs"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -955,12 +1669,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "中后台搭建低代码平台（A lowcode platform for building page）",
+            "homepage": "http://124.221.147.83:4015/editor",
             "id": 293222077,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2020-10-12T05:41:55Z",
+            "open_issues": 2,
             "owner": "fantasticit",
             "repo": "cube",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "lowcode",
+              "mobx",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -971,12 +1695,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "该版本停止维护，有兴趣的朋友请访问易动v3版本",
+            "homepage": "https://github.com/vkcyan/YD",
             "id": 208417677,
             "language": "Vue",
+            "license": null,
             "last_commit": "2022-07-21T18:46:24Z",
+            "open_issues": 39,
             "owner": "vk-together",
             "repo": "activity-YD",
-            "stars": 92
+            "stars": 92,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -987,12 +1716,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework to create the WYSIWYG Web Page Editor of yours.",
+            "homepage": "https://visionjs.netlify.com/",
             "id": 143500723,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-05-29T16:51:58Z",
+            "open_issues": 0,
             "owner": "tuoxiansp",
             "repo": "vision",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "html-builder",
+              "page-builder",
+              "visual-editor",
+              "web-builder",
+              "web-builder-framework",
+              "wysiwyg",
+              "wysiwyg-html-editor"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1003,12 +1745,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "区块可视化代码编辑器",
+            "homepage": null,
             "id": 168680559,
             "language": "Vue",
+            "license": null,
             "last_commit": "2019-02-15T08:54:18Z",
+            "open_issues": 0,
             "owner": "sww1230",
             "repo": "blockVisualEditor",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1019,12 +1766,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💬 Visual production tool, draggable, resizable, sketch for Vue 2.x",
+            "homepage": "http://yh5js.com",
             "id": 228139600,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-11T02:21:19Z",
+            "open_issues": 0,
             "owner": "qq15725",
             "repo": "yh5",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "draggable",
+              "json-generator",
+              "sketch",
+              "vue",
+              "yh5"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1035,12 +1793,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "可视化搭建低代码平台（Lowcode development platform）",
+            "homepage": null,
             "id": 330620617,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-03-01T11:21:54Z",
+            "open_issues": 0,
             "owner": "MudOnTire",
             "repo": "moria",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1051,12 +1814,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Core packages for QuanXiang Cloud frontend. Including Artery Engine, Artery Renderer and Headless UI, etc.",
+            "homepage": null,
             "id": 447164024,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-27T08:03:59Z",
+            "open_issues": 3,
             "owner": "quanxiang-cloud",
             "repo": "one-for-all",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "lowcode",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1067,12 +1838,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web可视化组态编辑器(Angular)",
+            "homepage": null,
             "id": 177520981,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-08T13:19:42Z",
+            "open_issues": 13,
             "owner": "bojue",
             "repo": "Web-Editor",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "angular13",
+              "drag-and-drop",
+              "editor",
+              "indexdb"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1083,12 +1864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "项目更名为brick-design",
+            "homepage": null,
             "id": 341570508,
             "language": null,
+            "license": null,
             "last_commit": "2021-02-23T13:54:55Z",
+            "open_issues": 0,
             "owner": "brick-design",
             "repo": "react-visual-editor",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1099,12 +1885,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ant-design 组件库实时可视化编辑器，实时生成 react 代码",
+            "homepage": "https://xinyu198736.github.io/antd-visual-editor/#/?_k=u97lci",
             "id": 182378456,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-01-20T16:57:20Z",
+            "open_issues": 5,
             "owner": "small-tou",
             "repo": "antd-visual-editor",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ant-design",
+              "antd",
+              "editor",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1120,12 +1916,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🧩 Make everything designable 🧩 ",
+                "homepage": "https://designable.netlify.app",
                 "id": 370534076,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-04-07T03:20:40Z",
+                "open_issues": 62,
                 "owner": "alibaba",
                 "repo": "designable",
-                "stars": 3530
+                "stars": 3530,
+                "topics": [
+                  "builder",
+                  "designable",
+                  "designer",
+                  "editor",
+                  "form",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
             }
@@ -1138,12 +1946,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "homepage": "https://www.odoo.com",
             "id": 19745004,
             "language": "Python",
-            "last_commit": "2026-08-28T12:13:27Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:04:58Z",
+            "open_issues": 10408,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54005
+            "stars": 54018,
+            "topics": [
+              "apps",
+              "business",
+              "erp",
+              "management",
+              "odoo",
+              "odoo-apps",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1154,12 +1975,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low code web framework for real world applications, in Python and Javascript",
+            "homepage": "https://frappe.io/framework",
             "id": 1864194,
             "language": "Python",
-            "last_commit": "2026-08-28T11:36:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:00:01Z",
+            "open_issues": 2026,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10653
+            "stars": 10656,
+            "topics": [
+              "cms",
+              "email",
+              "erpnext",
+              "frappe",
+              "full-stack",
+              "javascript",
+              "low-code",
+              "mariadb",
+              "multitenant",
+              "postgres",
+              "python",
+              "rest-api",
+              "security",
+              "socket-io",
+              "web-framework",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1170,12 +2013,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visual Development for React, Vue, Svelte, Qwik, and more",
+            "homepage": "https://builder.io",
             "id": 168429268,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:14:48Z",
+            "open_issues": 134,
             "owner": "BuilderIO",
             "repo": "builder",
-            "stars": 8808
+            "stars": 8811,
+            "topics": [
+              "angular",
+              "builder",
+              "cms",
+              "drag-drop",
+              "frontend",
+              "gatsby",
+              "headless",
+              "headless-cms",
+              "landing-pages",
+              "next-js",
+              "nocode",
+              "page-builder",
+              "pwa",
+              "qwik",
+              "react",
+              "react-native",
+              "shopify",
+              "vue",
+              "webcomponents",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1186,12 +2055,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JSX-based page builder for creating beautiful websites without writing code",
+            "homepage": "https://blocks-ui.com",
             "id": 180926771,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T11:37:35Z",
+            "open_issues": 68,
             "owner": "blocks",
             "repo": "blocks",
-            "stars": 5093
+            "stars": 5093,
+            "topics": [
+              "jsx",
+              "lowcode",
+              "mdx",
+              "nocode",
+              "react",
+              "visual-editor",
+              "wysiwyg"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1202,12 +2084,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "INACTIVE: Move your mouse, generate code from flow chart",
+            "homepage": "https://www.yuque.com/imove/docs/hvu0md",
             "id": 254142438,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-03-22T06:38:30Z",
+            "open_issues": 43,
             "owner": "i5ting",
             "repo": "imove",
-            "stars": 3730
+            "stars": 3730,
+            "topics": [
+              "flowchart",
+              "javascript",
+              "logic",
+              "lowcode",
+              "x6",
+              "xstate"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1218,12 +2112,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Block Editor",
+            "homepage": null,
             "id": 26850654,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-03T12:00:58Z",
+            "open_issues": 33,
             "owner": "vigetlabs",
             "repo": "colonel-kurtz",
-            "stars": 320
+            "stars": 320,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         }
@@ -1240,12 +2139,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+            "homepage": null,
             "id": 85541218,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-09T01:39:37Z",
+            "open_issues": 15,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31089
+            "stars": 31090,
+            "topics": [
+              "awesome",
+              "frontend",
+              "weekly"
+            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1256,12 +2164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my personal blog",
+            "homepage": null,
             "id": 14459765,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-01T08:02:24Z",
+            "open_issues": 30,
             "owner": "xufei",
             "repo": "blog",
-            "stars": 6630
+            "stars": 6630,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1272,12 +2185,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "分享我的编程经验和学习心得，订阅请点 watch",
+            "homepage": null,
             "id": 152043572,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:06:16Z",
+            "open_issues": 39,
             "owner": "woai3c",
             "repo": "Front-end-articles",
-            "stars": 1644
+            "stars": 1644,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         }
@@ -1286,15 +2204,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:13:58.128Z",
+    "last_updated": "2026-08-29T04:11:33.694Z",
     "original_repository_info": {
       "archived": false,
+      "description": "国内低代码平台从业者交流",
+      "homepage": null,
       "id": 281703360,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-11-07T02:24:32Z",
+      "open_issues": 11,
       "owner": "taowen",
       "repo": "awesome-lowcode",
-      "stars": 14716
+      "stars": 14717,
+      "topics": [
+        "awesome",
+        "awsome",
+        "low-code",
+        "lowcode",
+        "nocode"
+      ]
     },
     "original_repository_sha": "5de5c9201c46dd350607d53394b34303731baca0",
     "enhanced_repository": "enhansome/enhansome-lowcode",
