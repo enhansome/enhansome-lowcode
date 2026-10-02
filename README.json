@@ -15,11 +15,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T22:47:51Z",
+            "last_commit": "2026-10-02T06:10:44Z",
             "open_issues": 4494,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 40980,
+            "stars": 40984,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -61,7 +61,7 @@
             "open_issues": 43,
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12328,
+            "stars": 12330,
             "topics": [
               "aiagent",
               "app-builder",
@@ -134,7 +134,7 @@
                 "open_issues": 1,
                 "owner": "teaql",
                 "repo": "teaql-agent-kit",
-                "stars": 2813,
+                "stars": 2814,
                 "topics": [
                   "agentic-coding",
                   "ai-coding",
@@ -393,7 +393,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31231,
+            "stars": 31237,
             "topics": [
               "awesome",
               "frontend",
@@ -418,7 +418,7 @@
             "open_issues": 25,
             "owner": "trypromptly",
             "repo": "LLMStack",
-            "stars": 2308,
+            "stars": 2309,
             "topics": [
               "agents",
               "ai",
@@ -490,7 +490,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-08-30T05:06:21Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "hlerenow",
             "repo": "chameleon",
             "stars": 230,
@@ -559,7 +559,7 @@
             "open_issues": 53,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48044,
+            "stars": 48051,
             "topics": [
               "activiti",
               "agent",
@@ -597,11 +597,11 @@
             "id": 285864199,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T19:53:43Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-01T21:08:36Z",
+            "open_issues": 242,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33363,
+            "stars": 33366,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -643,7 +643,7 @@
             "open_issues": 313,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24420,
+            "stars": 24430,
             "topics": [
               "admin-dashboard",
               "ai-agent",
@@ -720,7 +720,7 @@
             "open_issues": 1714,
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18896,
+            "stars": 18895,
             "topics": [
               "admin",
               "frontend",
@@ -775,7 +775,7 @@
             "open_issues": 137,
             "owner": "JakHuang",
             "repo": "form-generator",
-            "stars": 9317,
+            "stars": 9318,
             "topics": [
               "element-ui",
               "form-designer",
@@ -875,7 +875,7 @@
             "language": "Vue",
             "license": "MIT",
             "last_commit": "2026-05-25T08:08:20Z",
-            "open_issues": 18,
+            "open_issues": 17,
             "owner": "wangyuan389",
             "repo": "mall-cook",
             "stars": 5618,
@@ -995,7 +995,7 @@
             "open_issues": 581,
             "owner": "steedos",
             "repo": "steedos-platform",
-            "stars": 1582,
+            "stars": 1583,
             "topics": [
               "airtable",
               "amis",
@@ -1106,7 +1106,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "gaea-editor",
-            "stars": 1346,
+            "stars": 1345,
             "topics": [
               "editor",
               "web-design",
@@ -1131,7 +1131,7 @@
             "open_issues": 17,
             "owner": "page-pipepline",
             "repo": "pipeline-editor",
-            "stars": 1017,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1691,6 +1691,35 @@
         },
         {
           "node_type": "item",
+          "title": "vision",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A framework to create the WYSIWYG Web Page Editor of yours.",
+            "homepage": "https://visionjs.netlify.com/",
+            "id": 143500723,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2020-05-29T16:51:58Z",
+            "open_issues": 0,
+            "owner": "tuoxiansp",
+            "repo": "vision",
+            "stars": 92,
+            "topics": [
+              "html-builder",
+              "page-builder",
+              "visual-editor",
+              "web-builder",
+              "web-builder-framework",
+              "wysiwyg",
+              "wysiwyg-html-editor"
+            ]
+          },
+          "first_seen": "2026-08-28T12:13:58.128Z"
+        },
+        {
+          "node_type": "item",
           "title": "activity-YD",
           "description": null,
           "children": [],
@@ -1707,35 +1736,6 @@
             "repo": "activity-YD",
             "stars": 92,
             "topics": []
-          },
-          "first_seen": "2026-08-28T12:13:58.128Z"
-        },
-        {
-          "node_type": "item",
-          "title": "vision",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A framework to create the WYSIWYG Web Page Editor of yours.",
-            "homepage": "https://visionjs.netlify.com/",
-            "id": 143500723,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2020-05-29T16:51:58Z",
-            "open_issues": 0,
-            "owner": "tuoxiansp",
-            "repo": "vision",
-            "stars": 91,
-            "topics": [
-              "html-builder",
-              "page-builder",
-              "visual-editor",
-              "web-builder",
-              "web-builder-framework",
-              "wysiwyg",
-              "wysiwyg-html-editor"
-            ]
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
         },
@@ -1952,11 +1952,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T06:32:36Z",
-            "open_issues": 10719,
+            "last_commit": "2026-10-02T05:36:25Z",
+            "open_issues": 10725,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54761,
+            "stars": 54794,
             "topics": [
               "apps",
               "business",
@@ -1981,11 +1981,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-01T06:22:47Z",
-            "open_issues": 2055,
+            "last_commit": "2026-10-02T05:56:58Z",
+            "open_issues": 2053,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10864,
+            "stars": 10871,
             "topics": [
               "cms",
               "email",
@@ -2019,11 +2019,11 @@
             "id": 168429268,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-30T23:38:45Z",
+            "last_commit": "2026-10-01T20:47:52Z",
             "open_issues": 159,
             "owner": "BuilderIO",
             "repo": "builder",
-            "stars": 8859,
+            "stars": 8860,
             "topics": [
               "angular",
               "builder",
@@ -2065,7 +2065,7 @@
             "open_issues": 68,
             "owner": "blocks",
             "repo": "blocks",
-            "stars": 5098,
+            "stars": 5097,
             "topics": [
               "jsx",
               "lowcode",
@@ -2149,7 +2149,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31231,
+            "stars": 31237,
             "topics": [
               "awesome",
               "frontend",
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:33:01.361Z",
+    "last_updated": "2026-10-02T06:13:06.022Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
@@ -2217,7 +2217,7 @@
       "open_issues": 10,
       "owner": "taowen",
       "repo": "awesome-lowcode",
-      "stars": 14731,
+      "stars": 14732,
       "topics": [
         "awesome",
         "awsome",
