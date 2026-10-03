@@ -136,7 +136,7 @@
 
 仅包含前端部分的 low code 平台
 
-* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md) ⭐ 31,247 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-09
+* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md) ⭐ 31,248 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-09
 
 * \[LLMStack] (<https://github.com/trypromptly/LLMStack> ⭐ 2,308 | 🐛 25 | 🌐 Python | 📅 2024-12-11)
 
@@ -289,8 +289,8 @@
 
 ***
 
-* <https://github.com/odoo/odoo> ⭐ 54,809 | 🐛 10,688 | 🌐 Python | 📅 2026-10-03
-* <https://github.com/frappe/frappe> ⭐ 10,874 | 🐛 2,051 | 🌐 Python | 📅 2026-10-03
+* <https://github.com/odoo/odoo> ⭐ 54,809 | 🐛 10,689 | 🌐 Python | 📅 2026-10-03
+* <https://github.com/frappe/frappe> ⭐ 10,874 | 🐛 2,052 | 🌐 Python | 📅 2026-10-03
 * <https://github.com/BuilderIO/builder> ⭐ 8,860 | 🐛 157 | 🌐 TypeScript | 📅 2026-10-02
 * <https://github.com/blocks/blocks> ⭐ 5,097 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-01
 * <https://github.com/imgcook/imove> ⭐ 3,726 | 🐛 43 | 🌐 TypeScript | 📅 2022-03-22
@@ -336,7 +336,7 @@
 
 ## 技术点
 
-* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262) ⭐ 31,247 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-09
+* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262) ⭐ 31,248 | 🐛 16 | 🌐 JavaScript | 📅 2024-09-09
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38) ⭐ 6,629 | 🐛 30 | 📅 2024-08-01
 * [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45) ⭐ 1,643 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-28
 * 可逆计算

@@ -393,7 +393,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31247,
+            "stars": 31248,
             "topics": [
               "awesome",
               "frontend",
@@ -1953,7 +1953,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T04:12:39Z",
-            "open_issues": 10688,
+            "open_issues": 10689,
             "owner": "odoo",
             "repo": "odoo",
             "stars": 54809,
@@ -1981,8 +1981,8 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:37:52Z",
-            "open_issues": 2051,
+            "last_commit": "2026-10-03T05:19:55Z",
+            "open_issues": 2052,
             "owner": "frappe",
             "repo": "frappe",
             "stars": 10874,
@@ -2149,7 +2149,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31247,
+            "stars": 31248,
             "topics": [
               "awesome",
               "frontend",
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:55:05.025Z",
+    "last_updated": "2026-10-03T05:45:00.918Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
