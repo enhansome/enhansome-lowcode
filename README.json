@@ -15,11 +15,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T22:26:58Z",
-            "open_issues": 4504,
+            "last_commit": "2026-10-08T06:34:41Z",
+            "open_issues": 4506,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41025,
+            "stars": 41032,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -393,7 +393,7 @@
             "open_issues": 17,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31326,
+            "stars": 31355,
             "topics": [
               "awesome",
               "frontend",
@@ -556,10 +556,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T14:26:15Z",
-            "open_issues": 54,
+            "open_issues": 55,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48095,
+            "stars": 48111,
             "topics": [
               "activiti",
               "agent",
@@ -601,7 +601,7 @@
             "open_issues": 248,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33365,
+            "stars": 33367,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -639,11 +639,11 @@
             "id": 306829688,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T06:28:10Z",
-            "open_issues": 312,
+            "last_commit": "2026-10-08T06:27:58Z",
+            "open_issues": 315,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24482,
+            "stars": 24489,
             "topics": [
               "admin-dashboard",
               "ai-agent",
@@ -775,7 +775,7 @@
             "open_issues": 137,
             "owner": "JakHuang",
             "repo": "form-generator",
-            "stars": 9316,
+            "stars": 9315,
             "topics": [
               "element-ui",
               "form-designer",
@@ -840,7 +840,7 @@
             "open_issues": 109,
             "owner": "ly525",
             "repo": "luban-h5",
-            "stars": 6244,
+            "stars": 6243,
             "topics": [
               "ant-design",
               "design-tool",
@@ -878,7 +878,7 @@
             "open_issues": 17,
             "owner": "wangyuan389",
             "repo": "mall-cook",
-            "stars": 5616,
+            "stars": 5617,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -899,7 +899,7 @@
             "open_issues": 43,
             "owner": "ymm-tech",
             "repo": "gods-pen",
-            "stars": 4451,
+            "stars": 4449,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -920,7 +920,7 @@
             "open_issues": 38,
             "owner": "codebdy",
             "repo": "rxdrag",
-            "stars": 3752,
+            "stars": 3751,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1204,7 +1204,7 @@
             "open_issues": 63,
             "owner": "umijs",
             "repo": "sula",
-            "stars": 783,
+            "stars": 782,
             "topics": [
               "json-schema",
               "sula",
@@ -1347,7 +1347,7 @@
             "open_issues": 16,
             "owner": "tnfe",
             "repo": "shida",
-            "stars": 621,
+            "stars": 620,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1952,11 +1952,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T06:25:32Z",
-            "open_issues": 10790,
+            "last_commit": "2026-10-08T06:26:09Z",
+            "open_issues": 10718,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54869,
+            "stars": 54895,
             "topics": [
               "apps",
               "business",
@@ -1981,11 +1981,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-07T06:10:45Z",
-            "open_issues": 2192,
+            "last_commit": "2026-10-08T06:26:49Z",
+            "open_issues": 2220,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10889,
+            "stars": 10898,
             "topics": [
               "cms",
               "email",
@@ -2061,7 +2061,7 @@
             "id": 180926771,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T13:17:13Z",
+            "last_commit": "2026-10-07T18:09:06Z",
             "open_issues": 68,
             "owner": "blocks",
             "repo": "blocks",
@@ -2149,7 +2149,7 @@
             "open_issues": 17,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31326,
+            "stars": 31355,
             "topics": [
               "awesome",
               "frontend",
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T06:28:48.866Z",
+    "last_updated": "2026-10-08T06:39:09.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
@@ -2217,7 +2217,7 @@
       "open_issues": 10,
       "owner": "taowen",
       "repo": "awesome-lowcode",
-      "stars": 14733,
+      "stars": 14732,
       "topics": [
         "awesome",
         "awsome",
