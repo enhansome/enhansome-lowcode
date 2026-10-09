@@ -15,11 +15,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T06:34:41Z",
-            "open_issues": 4506,
+            "last_commit": "2026-10-08T21:30:36Z",
+            "open_issues": 4501,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41032,
+            "stars": 41042,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -131,10 +131,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-27T09:17:47Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "teaql",
                 "repo": "teaql-agent-kit",
-                "stars": 2814,
+                "stars": 2815,
                 "topics": [
                   "agentic-coding",
                   "ai-coding",
@@ -229,7 +229,7 @@
                 "open_issues": 664,
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15881,
+                "stars": 15879,
                 "topics": [
                   "alibaba",
                   "low-code",
@@ -393,7 +393,7 @@
             "open_issues": 17,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31355,
+            "stars": 31384,
             "topics": [
               "awesome",
               "frontend",
@@ -559,7 +559,7 @@
             "open_issues": 55,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48111,
+            "stars": 48116,
             "topics": [
               "activiti",
               "agent",
@@ -597,8 +597,8 @@
             "id": 285864199,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-06T19:54:16Z",
-            "open_issues": 248,
+            "last_commit": "2026-10-08T19:53:44Z",
+            "open_issues": 249,
             "owner": "zeromicro",
             "repo": "go-zero",
             "stars": 33367,
@@ -639,11 +639,11 @@
             "id": 306829688,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T06:27:58Z",
-            "open_issues": 315,
+            "last_commit": "2026-10-09T06:35:25Z",
+            "open_issues": 318,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24489,
+            "stars": 24503,
             "topics": [
               "admin-dashboard",
               "ai-agent",
@@ -720,7 +720,7 @@
             "open_issues": 1715,
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18897,
+            "stars": 18895,
             "topics": [
               "admin",
               "frontend",
@@ -750,7 +750,7 @@
             "open_issues": 664,
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15881,
+            "stars": 15879,
             "topics": [
               "alibaba",
               "low-code",
@@ -775,7 +775,7 @@
             "open_issues": 137,
             "owner": "JakHuang",
             "repo": "form-generator",
-            "stars": 9315,
+            "stars": 9313,
             "topics": [
               "element-ui",
               "form-designer",
@@ -840,7 +840,7 @@
             "open_issues": 109,
             "owner": "ly525",
             "repo": "luban-h5",
-            "stars": 6243,
+            "stars": 6244,
             "topics": [
               "ant-design",
               "design-tool",
@@ -878,7 +878,7 @@
             "open_issues": 17,
             "owner": "wangyuan389",
             "repo": "mall-cook",
-            "stars": 5617,
+            "stars": 5618,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -941,7 +941,7 @@
             "open_issues": 12,
             "owner": "jaweii",
             "repo": "Vue-Layout",
-            "stars": 3250,
+            "stars": 3249,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -962,7 +962,7 @@
             "open_issues": 13,
             "owner": "sparrow-js",
             "repo": "sparrow",
-            "stars": 3196,
+            "stars": 3195,
             "topics": [
               "editor",
               "element-ui",
@@ -1106,7 +1106,7 @@
             "open_issues": 16,
             "owner": "ascoders",
             "repo": "gaea-editor",
-            "stars": 1345,
+            "stars": 1346,
             "topics": [
               "editor",
               "web-design",
@@ -1131,7 +1131,7 @@
             "open_issues": 17,
             "owner": "page-pipepline",
             "repo": "pipeline-editor",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1261,7 +1261,7 @@
             "open_issues": 0,
             "owner": "justjavac",
             "repo": "layoutit",
-            "stars": 762,
+            "stars": 761,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1282,7 +1282,7 @@
             "open_issues": 1,
             "owner": "staringos",
             "repo": "mtbird",
-            "stars": 753,
+            "stars": 752,
             "topics": [
               "ant-design",
               "editor",
@@ -1926,7 +1926,7 @@
                 "open_issues": 62,
                 "owner": "alibaba",
                 "repo": "designable",
-                "stars": 3525,
+                "stars": 3524,
                 "topics": [
                   "builder",
                   "designable",
@@ -1952,11 +1952,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T06:26:09Z",
-            "open_issues": 10718,
+            "last_commit": "2026-10-09T06:34:07Z",
+            "open_issues": 10835,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 54895,
+            "stars": 54929,
             "topics": [
               "apps",
               "business",
@@ -1981,11 +1981,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-08T06:26:49Z",
-            "open_issues": 2220,
+            "last_commit": "2026-10-09T06:28:18Z",
+            "open_issues": 2184,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10898,
+            "stars": 10909,
             "topics": [
               "cms",
               "email",
@@ -2065,7 +2065,7 @@
             "open_issues": 68,
             "owner": "blocks",
             "repo": "blocks",
-            "stars": 5096,
+            "stars": 5095,
             "topics": [
               "jsx",
               "lowcode",
@@ -2094,7 +2094,7 @@
             "open_issues": 43,
             "owner": "i5ting",
             "repo": "imove",
-            "stars": 3727,
+            "stars": 3728,
             "topics": [
               "flowchart",
               "javascript",
@@ -2149,7 +2149,7 @@
             "open_issues": 17,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31355,
+            "stars": 31384,
             "topics": [
               "awesome",
               "frontend",
@@ -2205,7 +2205,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:39:09.401Z",
+    "last_updated": "2026-10-09T06:43:15.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
@@ -2217,7 +2217,7 @@
       "open_issues": 10,
       "owner": "taowen",
       "repo": "awesome-lowcode",
-      "stars": 14732,
+      "stars": 14733,
       "topics": [
         "awesome",
         "awsome",
