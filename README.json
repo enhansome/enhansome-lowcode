@@ -15,11 +15,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T01:16:47Z",
-            "open_issues": 4506,
+            "last_commit": "2026-10-16T15:24:38Z",
+            "open_issues": 4508,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41070,
+            "stars": 41076,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -131,7 +131,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-27T09:17:47Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "teaql",
                 "repo": "teaql-agent-kit",
                 "stars": 2816,
@@ -398,7 +398,7 @@
             "open_issues": 20,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31460,
+            "stars": 31470,
             "topics": [
               "awesome",
               "frontend",
@@ -423,7 +423,7 @@
             "open_issues": 25,
             "owner": "trypromptly",
             "repo": "LLMStack",
-            "stars": 2309,
+            "stars": 2310,
             "topics": [
               "agents",
               "ai",
@@ -535,7 +535,7 @@
                 "open_issues": 76,
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4945,
+                "stars": 4946,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
@@ -561,10 +561,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-14T01:56:30Z",
-            "open_issues": 20,
+            "open_issues": 10,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48226,
+            "stars": 48237,
             "topics": [
               "activiti",
               "agent",
@@ -606,7 +606,7 @@
             "open_issues": 253,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33381,
+            "stars": 33386,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -644,11 +644,11 @@
             "id": 306829688,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T04:42:00Z",
-            "open_issues": 362,
+            "last_commit": "2026-10-17T04:42:31Z",
+            "open_issues": 354,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24593,
+            "stars": 24599,
             "topics": [
               "admin-dashboard",
               "ai-agent",
@@ -725,7 +725,7 @@
             "open_issues": 1714,
             "owner": "baidu",
             "repo": "amis",
-            "stars": 18892,
+            "stars": 18891,
             "topics": [
               "admin",
               "frontend",
@@ -1000,7 +1000,7 @@
             "open_issues": 579,
             "owner": "steedos",
             "repo": "steedos-platform",
-            "stars": 1587,
+            "stars": 1588,
             "topics": [
               "airtable",
               "amis",
@@ -1352,7 +1352,7 @@
             "open_issues": 16,
             "owner": "tnfe",
             "repo": "shida",
-            "stars": 619,
+            "stars": 618,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1957,11 +1957,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T04:50:04Z",
-            "open_issues": 11004,
+            "last_commit": "2026-10-17T04:58:14Z",
+            "open_issues": 10958,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55072,
+            "stars": 55100,
             "topics": [
               "apps",
               "business",
@@ -1986,11 +1986,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-15T20:35:45Z",
-            "open_issues": 2209,
+            "last_commit": "2026-10-17T04:28:36Z",
+            "open_issues": 2227,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 10944,
+            "stars": 10948,
             "topics": [
               "cms",
               "email",
@@ -2154,7 +2154,7 @@
             "open_issues": 20,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31460,
+            "stars": 31470,
             "topics": [
               "awesome",
               "frontend",
@@ -2210,7 +2210,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:59:44.465Z",
+    "last_updated": "2026-10-17T04:59:41.576Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
@@ -2222,7 +2222,7 @@
       "open_issues": 9,
       "owner": "taowen",
       "repo": "awesome-lowcode",
-      "stars": 14726,
+      "stars": 14728,
       "topics": [
         "awesome",
         "awsome",
