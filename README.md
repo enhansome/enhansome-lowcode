@@ -2,11 +2,11 @@
 
 ## 全栈平台
 
-* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 41,120 | 🐛 4,515 | 🌐 TypeScript | 📅 2026-10-25）
-* [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder) ⭐ 12,335 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-27）
+* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 41,128 | 🐛 4,511 | 🌐 TypeScript | 📅 2026-10-26）
+* [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder) ⭐ 12,336 | 🐛 44 | 🌐 TypeScript | 📅 2026-05-27）
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment) ⭐ 381 | 🐛 1 | 📅 2025-12-16
 * [双链DaaS](https://github.com/doublechaintech/daas-start-kit) ⭐ 165 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-23
-  * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite) ⭐ 2,818 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-26
+  * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite) ⭐ 2,818 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-27
   * [直接通过Github Actions体验](https://github.com/doublechaintech/daas-with-github-actions) ⭐ 20 | 🐛 2 | 📅 2026-01-12
   * [包含实时预效果的KSML操练场-开发中](http://kg2x.doublechaintech.com/view/playground)
 * 阿里-云凤蝶
@@ -136,7 +136,7 @@
 
 仅包含前端部分的 low code 平台
 
-* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md) ⭐ 31,541 | 🐛 22 | 🌐 JavaScript | 📅 2024-09-09
+* [阿里-bi designer](https://github.com/dt-fe/weekly/blob/v2/164.%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%95%B0%E6%8D%AE%E6%90%AD%E5%BB%BA%E5%BC%95%E6%93%8E%20bi-designer%20API-%E8%AE%BE%E8%AE%A1%E5%99%A8%E3%80%8B.md) ⭐ 31,558 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-09
 
 * \[LLMStack] (<https://github.com/trypromptly/LLMStack> ⭐ 2,310 | 🐛 27 | 🌐 Python | 📅 2024-12-11)
 
@@ -162,7 +162,7 @@
 * [点石](https://www.h5ds.com/)
 
 * 腾讯-tmagic-editor
-  * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor) ⭐ 4,947 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-19
+  * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor) ⭐ 4,948 | 🐛 76 | 🌐 TypeScript | 📅 2026-10-19
 
 * 京东-通天塔
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
@@ -218,27 +218,27 @@
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
-* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 48,282 | 🐛 10 | 🌐 Java | 📅 2026-10-24
-* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,403 | 🐛 251 | 🌐 Go | 📅 2026-10-25: 你不需要懂微服务，懂业务就行
-* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 24,712 | 🐛 341 | 🌐 TypeScript | 📅 2026-10-26：极易扩展的无代码开发平台
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 48,290 | 🐛 10 | 🌐 Java | 📅 2026-10-24
+* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,406 | 🐛 255 | 🌐 Go | 📅 2026-10-26: 你不需要懂微服务，懂业务就行
+* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 24,733 | 🐛 350 | 🌐 TypeScript | 📅 2026-10-27：极易扩展的无代码开发平台
 * [百度-amis](https://github.com/baidu/amis) ⭐ 18,889 | 🐛 1,714 | 🌐 TypeScript | 📅 2026-03-18
   * [Ovine](https://github.com/CareyToboo/ovine) ⭐ 747 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-03：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
 * <https://github.com/alibaba/lowcode-engine> ⭐ 15,877 | 🐛 664 | 🌐 TypeScript | 📅 2025-03-10
 * [form-generator](https://github.com/JakHuang/form-generator) ⭐ 9,306 | 🐛 137 | 🌐 Vue | 📅 2023-04-13：Element UI表单设计及代码生成器
-* [form-render](https://github.com/alibaba/form-render) ⭐ 7,848 | 🐛 60 | 🌐 TypeScript | 📅 2026-05-26：通过 JSON Schema 生成标准 Form，基于React
+* [form-render](https://github.com/alibaba/form-render) ⭐ 7,849 | 🐛 60 | 🌐 TypeScript | 📅 2026-05-26：通过 JSON Schema 生成标准 Form，基于React
 * [鲁班 H5](https://github.com/ly525/luban-h5) ⭐ 6,243 | 🐛 109 | 🌐 JavaScript | 📅 2026-01-03
 * [Mall-Cook](https://github.com/wangyuan389/mall-cook) ⭐ 5,619 | 🐛 17 | 🌐 Vue | 📅 2026-05-25
-* [运满满-码良](https://github.com/ymm-tech/gods-pen) ⭐ 4,443 | 🐛 43 | 🌐 Vue | 📅 2023-02-25
+* [运满满-码良](https://github.com/ymm-tech/gods-pen) ⭐ 4,442 | 🐛 43 | 🌐 Vue | 📅 2023-02-25
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
 * [rxeditor](https://github.com/rxwater/rxeditor) ⭐ 3,748 | 🐛 38 | 🌐 TypeScript | 📅 2024-09-03
-* [Vue-Layout](https://github.com/jaweii/Vue-Layout) ⭐ 3,246 | 🐛 12 | 🌐 JavaScript | 📅 2019-11-12
+* [Vue-Layout](https://github.com/jaweii/Vue-Layout) ⭐ 3,247 | 🐛 12 | 🌐 JavaScript | 📅 2019-11-12
 * [sparrow-js](https://github.com/sparrow-js/sparrow) ⚠️ Archived
   * [实时输出前端代码，折腾大半年的开源项目 sparrow-js](https://www.v2ex.com/t/718505)
 * [华炎魔方](https://github.com/steedos/steedos-platform/) ⭐ 1,589 | 🐛 580 | 🌐 TypeScript | 📅 2026-10-20
   * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview)
 * [W5 SOAR](https://github.com/w5teams/w5) ⭐ 1,549 | 🐛 20 | 🌐 Python | 📅 2024-06-24
-* [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV) ⭐ 1,370 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-24
+* [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV) ⭐ 1,370 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor) ⭐ 1,345 | 🐛 16 | 🌐 TypeScript | 📅 2022-05-22
   * [可视化在线编辑器架构设计](https://juejin.cn/post/6844903455417434119)
 * [pipeline-editor](https://github.com/page-pipepline/pipeline-editor) ⭐ 1,015 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-07
@@ -246,7 +246,7 @@
 * [h5maker](https://github.com/zhengguorong/h5maker) ⭐ 909 | 🐛 61 | 🌐 Vue | 📅 2026-02-11
 * [h5-factory](https://github.com/yangyuji/h5-factory) ⭐ 852 | 🐛 23 | 🌐 Vue | 📅 2023-03-03
   * [一个简单易用的电商活动页面生成系统](https://juejin.im/post/5cf328706fb9a07f042030f0)
-* [阿里-sula](https://github.com/umijs/sula) ⭐ 781 | 🐛 63 | 🌐 TypeScript | 📅 2022-11-11
+* [阿里-sula](https://github.com/umijs/sula) ⭐ 780 | 🐛 63 | 🌐 TypeScript | 📅 2022-11-11
 * [Esview ](https://github.com/furioussoul/esview) ⭐ 771 | 🐛 6 | 🌐 JavaScript | 📅 2024-09-19
 * [layoutit](https://github.com/justjavac/layoutit) ⭐ 760 | 🐛 0 | 🌐 HTML | 📅 2019-06-06
 * [StaringOS MtBird](https://github.com/staringos/mtbird) ⭐ 752 | 🐛 1 | 🌐 TypeScript | 📅 2024-05-22: 开源小程序、H5、网站低代码平台，无需代码，拖拽操作快速生成页面应用，数据可视化接入，定制业务自由拓展.
@@ -289,11 +289,11 @@
 
 ***
 
-* <https://github.com/odoo/odoo> ⭐ 55,318 | 🐛 11,100 | 🌐 Python | 📅 2026-10-26
-* <https://github.com/frappe/frappe> ⭐ 10,998 | 🐛 2,196 | 🌐 Python | 📅 2026-10-26
-* <https://github.com/BuilderIO/builder> ⭐ 8,872 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-25
-* <https://github.com/blocks/blocks> ⭐ 5,098 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-24
-* <https://github.com/imgcook/imove> ⭐ 3,725 | 🐛 43 | 🌐 TypeScript | 📅 2022-03-22
+* <https://github.com/odoo/odoo> ⭐ 55,355 | 🐛 11,204 | 🌐 Python | 📅 2026-10-27
+* <https://github.com/frappe/frappe> ⭐ 11,004 | 🐛 2,221 | 🌐 Python | 📅 2026-10-27
+* <https://github.com/BuilderIO/builder> ⭐ 8,874 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-26
+* <https://github.com/blocks/blocks> ⭐ 5,099 | 🐛 68 | 🌐 JavaScript | 📅 2026-10-26
+* <https://github.com/imgcook/imove> ⭐ 3,724 | 🐛 43 | 🌐 TypeScript | 📅 2022-03-22
 * <https://github.com/vigetlabs/colonel-kurtz> ⭐ 320 | 🐛 33 | 🌐 JavaScript | 📅 2023-06-03
 * <https://github.com/ipselon/structor>
 * <https://github.com/vuegg/vuegg>
@@ -336,9 +336,9 @@
 
 ## 技术点
 
-* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262) ⭐ 31,541 | 🐛 22 | 🌐 JavaScript | 📅 2024-09-09
+* [161.精读《可视化搭建思考 - 富文本搭建》](https://github.com/dt-fe/weekly/issues/262) ⭐ 31,558 | 🐛 23 | 🌐 JavaScript | 📅 2024-09-09
 * [流动的数据——使用 RxJS 构造复杂单页应用的数据逻辑](https://github.com/xufei/blog/issues/38) ⭐ 6,629 | 🐛 30 | 📅 2024-08-01
-* [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45) ⭐ 1,640 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-28
+* [低代码与大语言模型的探索实践](https://github.com/woai3c/Front-end-articles/issues/45) ⭐ 1,639 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-28
 * 可逆计算
   * [可逆计算：下一代软件构造理论](https://zhuanlan.zhihu.com/p/64004026)
   * [从可逆计算看声明式编程](https://zhuanlan.zhihu.com/p/85492497)
@@ -513,4 +513,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
