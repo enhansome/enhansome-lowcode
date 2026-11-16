@@ -15,11 +15,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T20:08:23Z",
-            "open_issues": 4524,
+            "last_commit": "2026-11-16T04:13:17Z",
+            "open_issues": 4527,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41252,
+            "stars": 41255,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -234,7 +234,7 @@
                 "open_issues": 664,
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15868,
+                "stars": 15867,
                 "topics": [
                   "alibaba",
                   "low-code",
@@ -398,7 +398,7 @@
             "open_issues": 27,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31723,
+            "stars": 31726,
             "topics": [
               "awesome",
               "frontend",
@@ -535,7 +535,7 @@
                 "open_issues": 81,
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4950,
+                "stars": 4951,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
@@ -564,7 +564,7 @@
             "open_issues": 9,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48483,
+            "stars": 48495,
             "topics": [
               "activiti",
               "agent",
@@ -602,11 +602,11 @@
             "id": 285864199,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-14T11:26:05Z",
+            "last_commit": "2026-11-15T15:09:12Z",
             "open_issues": 256,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33428,
+            "stars": 33429,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -644,11 +644,11 @@
             "id": 306829688,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T06:53:32Z",
-            "open_issues": 331,
+            "last_commit": "2026-11-16T07:08:49Z",
+            "open_issues": 326,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24929,
+            "stars": 24942,
             "topics": [
               "admin-dashboard",
               "agent-skills",
@@ -756,7 +756,7 @@
             "open_issues": 664,
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15868,
+            "stars": 15867,
             "topics": [
               "alibaba",
               "low-code",
@@ -884,7 +884,7 @@
             "open_issues": 16,
             "owner": "wangyuan389",
             "repo": "mall-cook",
-            "stars": 5618,
+            "stars": 5620,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1958,11 +1958,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T03:23:47Z",
-            "open_issues": 11335,
+            "last_commit": "2026-11-16T06:46:23Z",
+            "open_issues": 11351,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55801,
+            "stars": 55826,
             "topics": [
               "apps",
               "business",
@@ -1987,11 +1987,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-15T05:23:27Z",
-            "open_issues": 2404,
+            "last_commit": "2026-11-16T07:08:47Z",
+            "open_issues": 2390,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 11099,
+            "stars": 11104,
             "topics": [
               "cms",
               "email",
@@ -2025,11 +2025,11 @@
             "id": 168429268,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-13T09:30:43Z",
+            "last_commit": "2026-11-16T06:51:34Z",
             "open_issues": 178,
             "owner": "BuilderIO",
             "repo": "builder",
-            "stars": 8893,
+            "stars": 8892,
             "topics": [
               "angular",
               "builder",
@@ -2155,7 +2155,7 @@
             "open_issues": 27,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31723,
+            "stars": 31726,
             "topics": [
               "awesome",
               "frontend",
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:12:16.031Z",
+    "last_updated": "2026-11-16T07:17:11.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
