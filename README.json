@@ -15,11 +15,11 @@
             "id": 275993885,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T06:03:11Z",
-            "open_issues": 4520,
+            "last_commit": "2026-11-19T07:14:17Z",
+            "open_issues": 4523,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41271,
+            "stars": 41277,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -61,7 +61,7 @@
             "open_issues": 44,
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12356,
+            "stars": 12357,
             "topics": [
               "aiagent",
               "app-builder",
@@ -266,7 +266,7 @@
                 "open_issues": 6,
                 "owner": "git-men",
                 "repo": "lightning",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "admin",
                   "django",
@@ -363,7 +363,7 @@
                 "open_issues": 142,
                 "owner": "opentiny",
                 "repo": "tiny-engine",
-                "stars": 2788,
+                "stars": 2789,
                 "topics": [
                   "frontend",
                   "lowcode",
@@ -398,7 +398,7 @@
             "open_issues": 27,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31719,
+            "stars": 31720,
             "topics": [
               "awesome",
               "frontend",
@@ -423,7 +423,7 @@
             "open_issues": 28,
             "owner": "trypromptly",
             "repo": "LLMStack",
-            "stars": 2309,
+            "stars": 2308,
             "topics": [
               "agents",
               "ai",
@@ -564,7 +564,7 @@
             "open_issues": 10,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48510,
+            "stars": 48520,
             "topics": [
               "activiti",
               "agent",
@@ -602,11 +602,11 @@
             "id": 285864199,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-16T19:53:02Z",
-            "open_issues": 259,
+            "last_commit": "2026-11-18T15:02:39Z",
+            "open_issues": 260,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33431,
+            "stars": 33433,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -644,11 +644,11 @@
             "id": 306829688,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T07:49:41Z",
-            "open_issues": 324,
+            "last_commit": "2026-11-19T07:46:53Z",
+            "open_issues": 328,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24957,
+            "stars": 24968,
             "topics": [
               "admin-dashboard",
               "agent-skills",
@@ -811,7 +811,7 @@
             "open_issues": 60,
             "owner": "alibaba",
             "repo": "x-render",
-            "stars": 7847,
+            "stars": 7848,
             "topics": [
               "ant",
               "ant-design",
@@ -1137,7 +1137,7 @@
             "open_issues": 17,
             "owner": "page-pipepline",
             "repo": "pipeline-editor",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1323,7 +1323,7 @@
             "open_issues": 39,
             "owner": "xiaoai7904",
             "repo": "web_designer",
-            "stars": 643,
+            "stars": 644,
             "topics": [
               "designer",
               "drag-and-drop",
@@ -1958,11 +1958,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T07:55:11Z",
-            "open_issues": 11370,
+            "last_commit": "2026-11-19T07:47:34Z",
+            "open_issues": 11332,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 55887,
+            "stars": 55922,
             "topics": [
               "apps",
               "business",
@@ -1987,11 +1987,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-18T07:55:51Z",
-            "open_issues": 2391,
+            "last_commit": "2026-11-19T07:26:36Z",
+            "open_issues": 2401,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 11115,
+            "stars": 11128,
             "topics": [
               "cms",
               "email",
@@ -2025,8 +2025,8 @@
             "id": 168429268,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T22:46:03Z",
-            "open_issues": 177,
+            "last_commit": "2026-11-19T00:28:02Z",
+            "open_issues": 179,
             "owner": "BuilderIO",
             "repo": "builder",
             "stars": 8891,
@@ -2100,7 +2100,7 @@
             "open_issues": 41,
             "owner": "i5ting",
             "repo": "imove",
-            "stars": 3720,
+            "stars": 3719,
             "topics": [
               "flowchart",
               "javascript",
@@ -2155,7 +2155,7 @@
             "open_issues": 27,
             "owner": "ascoders",
             "repo": "weekly",
-            "stars": 31719,
+            "stars": 31720,
             "topics": [
               "awesome",
               "frontend",
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T07:56:24.096Z",
+    "last_updated": "2026-11-19T07:56:22.667Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",
@@ -2223,7 +2223,7 @@
       "open_issues": 11,
       "owner": "taowen",
       "repo": "awesome-lowcode",
-      "stars": 14749,
+      "stars": 14750,
       "topics": [
         "awesome",
         "awsome",
