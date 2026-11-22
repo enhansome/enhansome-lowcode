@@ -19,7 +19,7 @@
             "open_issues": 4518,
             "owner": "appsmithorg",
             "repo": "appsmith",
-            "stars": 41284,
+            "stars": 41287,
             "topics": [
               "admin-dashboard",
               "admin-panels",
@@ -61,7 +61,7 @@
             "open_issues": 45,
             "owner": "illacloud",
             "repo": "illa-builder",
-            "stars": 12358,
+            "stars": 12359,
             "topics": [
               "aiagent",
               "app-builder",
@@ -234,7 +234,7 @@
                 "open_issues": 664,
                 "owner": "alibaba",
                 "repo": "lowcode-engine",
-                "stars": 15866,
+                "stars": 15864,
                 "topics": [
                   "alibaba",
                   "low-code",
@@ -535,7 +535,7 @@
                 "open_issues": 82,
                 "owner": "Tencent",
                 "repo": "tmagic-editor",
-                "stars": 4951,
+                "stars": 4952,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:13:58.128Z"
@@ -564,7 +564,7 @@
             "open_issues": 11,
             "owner": "jeecgboot",
             "repo": "JeecgBoot",
-            "stars": 48559,
+            "stars": 48573,
             "topics": [
               "activiti",
               "agent",
@@ -606,7 +606,7 @@
             "open_issues": 265,
             "owner": "zeromicro",
             "repo": "go-zero",
-            "stars": 33436,
+            "stars": 33438,
             "topics": [
               "ai-native",
               "ai-native-development",
@@ -644,11 +644,11 @@
             "id": 306829688,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T07:35:03Z",
-            "open_issues": 305,
+            "last_commit": "2026-11-22T07:26:24Z",
+            "open_issues": 309,
             "owner": "nocobase",
             "repo": "nocobase",
-            "stars": 24974,
+            "stars": 24978,
             "topics": [
               "admin-dashboard",
               "agent-skills",
@@ -723,7 +723,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-03-18T14:07:40Z",
-            "open_issues": 1715,
+            "open_issues": 1716,
             "owner": "baidu",
             "repo": "amis",
             "stars": 18889,
@@ -756,7 +756,7 @@
             "open_issues": 664,
             "owner": "alibaba",
             "repo": "lowcode-engine",
-            "stars": 15866,
+            "stars": 15864,
             "topics": [
               "alibaba",
               "low-code",
@@ -884,7 +884,7 @@
             "open_issues": 16,
             "owner": "wangyuan389",
             "repo": "mall-cook",
-            "stars": 5619,
+            "stars": 5618,
             "topics": []
           },
           "first_seen": "2026-08-28T12:13:58.128Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 4,
             "owner": "AnsGoo",
             "repo": "openDataV",
-            "stars": 1369,
+            "stars": 1371,
             "topics": [
               "bigscreen",
               "datav",
@@ -1958,11 +1958,11 @@
             "id": 19745004,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T07:37:18Z",
-            "open_issues": 11344,
+            "last_commit": "2026-11-22T03:11:20Z",
+            "open_issues": 11338,
             "owner": "odoo",
             "repo": "odoo",
-            "stars": 56000,
+            "stars": 56013,
             "topics": [
               "apps",
               "business",
@@ -1987,11 +1987,11 @@
             "id": 1864194,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-21T06:34:25Z",
-            "open_issues": 2406,
+            "last_commit": "2026-11-22T02:26:14Z",
+            "open_issues": 2403,
             "owner": "frappe",
             "repo": "frappe",
-            "stars": 11137,
+            "stars": 11139,
             "topics": [
               "cms",
               "email",
@@ -2211,7 +2211,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:42:03.824Z",
+    "last_updated": "2026-11-22T07:27:29.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "国内低代码平台从业者交流",

@@ -2,8 +2,8 @@
 
 ## 全栈平台
 
-* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 41,284 | 🐛 4,518 | 🌐 TypeScript | 📅 2026-11-21）
-* [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder) ⭐ 12,358 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-12）
+* [Appsmith](https://www.appsmith.com/)（[Github](https://github.com/appsmithorg/appsmith) ⭐ 41,287 | 🐛 4,518 | 🌐 TypeScript | 📅 2026-11-21）
+* [ILLA Cloud/艾拉云](https://www.illacloud.com/)（[Github](https://github.com/illacloud/illa-builder) ⭐ 12,359 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-12）
 * [明道云](https://www.mingdao.com/) 支持公共云和私有部署，私有部署在Github可获得[免费社区版下载](https://github.com/mingdaocom/private-deployment) ⭐ 379 | 🐛 1 | 📅 2025-12-16
 * [双链DaaS](https://github.com/doublechaintech/daas-start-kit) ⭐ 165 | 🐛 0 | 🌐 TypeScript | 📅 2024-10-23
   * [大型系统构建案例-1.5K Stars](https://github.com/doublechaintech/scm-biz-suite) ⭐ 2,822 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10
@@ -22,7 +22,7 @@
   * [前端服务化——页面搭建工具的死与生](https://www.cnblogs.com/sskyy/p/6496287.html)
 * [阿里-宜搭](https://www.aliwork.com/)
 * 阿里-通用低代码基础设施
-  * [阿里开源的低代码引擎](https://github.com/alibaba/lowcode-engine) ⭐ 15,866 | 🐛 664 | 🌐 TypeScript | 📅 2025-03-10 | [官网](https://lowcode-engine.cn)
+  * [阿里开源的低代码引擎](https://github.com/alibaba/lowcode-engine) ⭐ 15,864 | 🐛 664 | 🌐 TypeScript | 📅 2025-03-10 | [官网](https://lowcode-engine.cn)
   * [低代码引擎搭建协议规范](https://lowcode-engine.cn/lowcode) | [低代码引擎物料协议规范](https://lowcode-engine.cn/material) | [低代码引擎资产包协
     议规范](https://lowcode-engine.cn/assets)
   * [阿里低代码引擎和生态建设实战及思考](https://mp.weixin.qq.com/s/MI6MrUKKydtnSdO4xq6jwA)
@@ -162,7 +162,7 @@
 * [点石](https://www.h5ds.com/)
 
 * 腾讯-tmagic-editor
-  * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor) ⭐ 4,951 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-13
+  * [开源的页面可视化搭建编辑器tmagic-editor](https://github.com/Tencent/tmagic-editor) ⭐ 4,952 | 🐛 82 | 🌐 TypeScript | 📅 2026-11-13
 
 * 京东-通天塔
   * [京东商城活动页面构建系统——通天塔](https://blog.csdn.net/zl1zl2zl3/article/details/84661421)
@@ -218,17 +218,17 @@
 
 ## ![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)
 
-* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 48,559 | 🐛 11 | 🌐 Java | 📅 2026-11-11
-* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,436 | 🐛 265 | 🌐 Go | 📅 2026-11-20: 你不需要懂微服务，懂业务就行
-* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 24,974 | 🐛 305 | 🌐 TypeScript | 📅 2026-11-21：极易扩展的无代码开发平台
-* [百度-amis](https://github.com/baidu/amis) ⭐ 18,889 | 🐛 1,715 | 🌐 TypeScript | 📅 2026-03-18
+* [jeecg-boot](https://github.com/zhangdaiscott/jeecg-boot) ⭐ 48,573 | 🐛 11 | 🌐 Java | 📅 2026-11-11
+* [好未来晓黑板go-zero微服务框架](https://github.com/tal-tech/go-zero) ⭐ 33,438 | 🐛 265 | 🌐 Go | 📅 2026-11-20: 你不需要懂微服务，懂业务就行
+* [NocoBase](https://github.com/nocobase/nocobase) ⭐ 24,978 | 🐛 309 | 🌐 TypeScript | 📅 2026-11-22：极易扩展的无代码开发平台
+* [百度-amis](https://github.com/baidu/amis) ⭐ 18,889 | 🐛 1,716 | 🌐 TypeScript | 📅 2026-03-18
   * [Ovine](https://github.com/CareyToboo/ovine) ⭐ 746 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-03：基于 amis 补全了路由、权限相关的组件
   * [爱速搭](https://suda.baidu.com/)
-* <https://github.com/alibaba/lowcode-engine> ⭐ 15,866 | 🐛 664 | 🌐 TypeScript | 📅 2025-03-10
+* <https://github.com/alibaba/lowcode-engine> ⭐ 15,864 | 🐛 664 | 🌐 TypeScript | 📅 2025-03-10
 * [form-generator](https://github.com/JakHuang/form-generator) ⭐ 9,303 | 🐛 137 | 🌐 Vue | 📅 2023-04-13：Element UI表单设计及代码生成器
 * [form-render](https://github.com/alibaba/form-render) ⭐ 7,847 | 🐛 60 | 🌐 TypeScript | 📅 2026-05-26：通过 JSON Schema 生成标准 Form，基于React
 * [鲁班 H5](https://github.com/ly525/luban-h5) ⭐ 6,249 | 🐛 109 | 🌐 JavaScript | 📅 2026-01-03
-* [Mall-Cook](https://github.com/wangyuan389/mall-cook) ⭐ 5,619 | 🐛 16 | 🌐 Vue | 📅 2026-05-25
+* [Mall-Cook](https://github.com/wangyuan389/mall-cook) ⭐ 5,618 | 🐛 16 | 🌐 Vue | 📅 2026-05-25
 * [运满满-码良](https://github.com/ymm-tech/gods-pen) ⭐ 4,439 | 🐛 43 | 🌐 Vue | 📅 2023-02-25
   * [如何设计高扩展的在线网页制作平台](https://juejin.im/post/5bd83daee51d4524b50d23b5)
 * [rxeditor](https://github.com/rxwater/rxeditor) ⭐ 3,743 | 🐛 38 | 🌐 TypeScript | 📅 2024-09-03
@@ -238,7 +238,7 @@
 * [华炎魔方](https://github.com/steedos/steedos-platform/) ⭐ 1,590 | 🐛 583 | 🌐 TypeScript | 📅 2026-11-18
   * [低代码 DevOps 平台协议](https://low-code-protocol.com/docs/overview)
 * [W5 SOAR](https://github.com/w5teams/w5) ⭐ 1,546 | 🐛 20 | 🌐 Python | 📅 2024-06-24
-* [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV) ⭐ 1,369 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26
+* [OpenDataV - 基于Vue3的拖拽式、低代码数据可视化平台](https://github.com/AnsGoo/openDataV) ⭐ 1,371 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26
 * [阿里-gaea-editor](https://github.com/ascoders/gaea-editor) ⭐ 1,346 | 🐛 16 | 🌐 TypeScript | 📅 2022-05-22
   * [可视化在线编辑器架构设计](https://juejin.cn/post/6844903455417434119)
 * [pipeline-editor](https://github.com/page-pipepline/pipeline-editor) ⭐ 1,014 | 🐛 17 | 🌐 JavaScript | 📅 2023-01-07
@@ -289,8 +289,8 @@
 
 ***
 
-* <https://github.com/odoo/odoo> ⭐ 56,000 | 🐛 11,344 | 🌐 Python | 📅 2026-11-21
-* <https://github.com/frappe/frappe> ⭐ 11,137 | 🐛 2,406 | 🌐 Python | 📅 2026-11-21
+* <https://github.com/odoo/odoo> ⭐ 56,013 | 🐛 11,338 | 🌐 Python | 📅 2026-11-22
+* <https://github.com/frappe/frappe> ⭐ 11,139 | 🐛 2,403 | 🌐 Python | 📅 2026-11-22
 * <https://github.com/BuilderIO/builder> ⭐ 8,890 | 🐛 177 | 🌐 TypeScript | 📅 2026-11-19
 * <https://github.com/blocks/blocks> ⭐ 5,096 | 🐛 68 | 🌐 JavaScript | 📅 2026-11-20
 * <https://github.com/imgcook/imove> ⭐ 3,717 | 🐛 41 | 🌐 TypeScript | 📅 2022-03-22
@@ -513,4 +513,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
